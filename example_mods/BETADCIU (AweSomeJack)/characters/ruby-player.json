@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "ruby idle dance"
+		},
+		{
+			"offsets": [
+				2,
+				20
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "ruby Sing Note RIGHT"
+		},
+		{
+			"offsets": [
+				11,
+				-40
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "ruby Sing Note DOWN"
+		},
+		{
+			"offsets": [
+				-3,
+				41
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "ruby Sing Note UP"
+		},
+		{
+			"offsets": [
+				20,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "ruby Sing Note LEFT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ruby_assets",
+	"position": [
+		-30,
+		30
+	],
+	"healthicon": "ruby",
+	"flip_x": false,
+	"healthbar_colors": [
+		145,
+		0,
+		202
+	],
+	"camera_position": [
+		0,
+		-10
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

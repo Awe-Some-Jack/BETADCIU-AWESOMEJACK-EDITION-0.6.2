@@ -1,0 +1,49 @@
+{
+	"song": {
+		"speed": 2.6,
+		"stage": "stage",
+		"player1": "sticky",
+		"player2": "luacle",
+		"player3": null,
+		"events": [
+			[
+				48000,
+				[
+					[
+						"Flash Light",
+						"WHITE",
+						""
+					],
+					[
+						"Change Character",
+						"bf",
+						"8owser"
+					]
+				]
+			],
+			[
+				72000,
+				[
+					[
+						"Change Character",
+						"bf",
+						"mariokirby"
+					],
+					[
+						"Flash Light",
+						"WHITE",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 160,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Sorrow"
+	}
+}

@@ -1,0 +1,144 @@
+{
+	"song": {
+		"speed": 3.5,
+		"stage": "running",
+		"player1": "tari",
+		"player2": "belle",
+		"player3": null,
+		"events": [
+			[
+				20984.4559585492,
+				[
+					[
+						"Change Character",
+						"dad",
+						"quartal"
+					]
+				]
+			],
+			[
+				23316.0621761658,
+				[
+					[
+						"Change Character",
+						"bf",
+						"cj-player"
+					]
+				]
+			],
+			[
+				25025.9067357513,
+				[
+					[
+						"Change Character",
+						"dad",
+						"neonight"
+					]
+				]
+			],
+			[
+				28134.7150259067,
+				[
+					[
+						"Change Character",
+						"bf",
+						"lylace-player"
+					]
+				]
+			],
+			[
+				30544.0414507772,
+				[
+					[
+						"Change Character",
+						"dad",
+						"taeyai"
+					]
+				]
+			],
+			[
+				32953.3678756477,
+				[
+					[
+						"Change Character",
+						"bf",
+						"nonsense-player"
+					]
+				]
+			],
+			[
+				35440.414507772,
+				[
+					[
+						"Change Character",
+						"dad",
+						"mad-stand"
+					]
+				]
+			],
+			[
+				38393.7823834197,
+				[
+					[
+						"Change Character",
+						"bf",
+						"sticky"
+					]
+				]
+			],
+			[
+				39948.1865284974,
+				[
+					[
+						"Change Character",
+						"dad",
+						"daisy"
+					]
+				]
+			],
+			[
+				42901.5544041451,
+				[
+					[
+						"Change Character",
+						"bf",
+						"ski-player"
+					]
+				]
+			],
+			[
+				45388.6010362695,
+				[
+					[
+						"Change Character",
+						"dad",
+						"Girlfriend"
+					],
+					[
+						"Change Character",
+						"gf",
+						"nogf"
+					]
+				]
+			],
+			[
+				47098.445595855,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 193,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "always-running"
+	}
+}

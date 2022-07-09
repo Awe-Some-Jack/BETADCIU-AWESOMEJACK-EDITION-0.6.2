@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 2.7,
+		"stage": "JackHouse",
+		"player1": "spong_player",
+		"player2": "luacle_context",
+		"player3": null,
+		"events": [
+			[
+				33281.25,
+				[
+					[
+						"Play Animation",
+						"WTF",
+						"dad"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "nogf",
+		"bpm": 160,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Context"
+	}
+}

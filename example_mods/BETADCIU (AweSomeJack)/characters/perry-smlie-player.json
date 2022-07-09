@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				-173
+			],
+			"anim": "idle",
+			"fps": 30,
+			"name": "perry idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				115,
+				-232
+			],
+			"anim": "singDOWN",
+			"fps": 30,
+			"name": "perry down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				43,
+				-132
+			],
+			"anim": "singUP",
+			"fps": 30,
+			"name": "perry up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				42,
+				-162
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "hey",
+			"indices": [],
+			"name": "perry hey"
+		},
+		{
+			"offsets": [
+				88,
+				-181
+			],
+			"indices": [],
+			"fps": 30,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "perry right"
+		},
+		{
+			"offsets": [
+				16,
+				-185
+			],
+			"indices": [],
+			"fps": 30,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "perry left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/perry",
+	"position": [
+		-50,
+		-30
+	],
+	"healthicon": "icon-perry",
+	"flip_x": false,
+	"healthbar_colors": [
+		235,
+		215,
+		255
+	],
+	"camera_position": [
+		120,
+		280
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

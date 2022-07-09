@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-320,
+				-471
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Cheeky Idle Dance"
+		},
+		{
+			"offsets": [
+				-310,
+				-470
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Cheeky NOTE LEFT"
+		},
+		{
+			"offsets": [
+				-323,
+				-472
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Cheeky NOTE DOWN"
+		},
+		{
+			"offsets": [
+				-321,
+				-470
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Cheeky NOTE UP"
+		},
+		{
+			"offsets": [
+				-320,
+				-470
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Cheeky NOTE RIGHT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Cheeky",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "cheeky",
+	"flip_x": false,
+	"healthbar_colors": [
+		63,
+		191,
+		246
+	],
+	"camera_position": [
+		320,
+		410
+	],
+	"sing_duration": 6.1,
+	"scale": 1.9
+}

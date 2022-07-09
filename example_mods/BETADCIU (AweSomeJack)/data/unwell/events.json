@@ -1,0 +1,176 @@
+{
+	"song": {
+		"events": [
+			[
+				9264.70588235294,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bfunwell"
+					]
+				]
+			],
+			[
+				13970.5882352941,
+				[
+					[
+						"Change Character",
+						"dad",
+						"Girlfriendunwell"
+					]
+				]
+			],
+			[
+				18823.5294117647,
+				[
+					[
+						"Change Character",
+						"dad",
+						"rainbow-dashunwell"
+					],
+					[
+						"Change Character",
+						"bf",
+						"danunwell"
+					]
+				]
+			],
+			[
+				30588.2352941176,
+				[
+					[
+						"Change Character",
+						"bf",
+						"sonicunwell"
+					]
+				]
+			],
+			[
+				32941.1764705882,
+				[
+					[
+						"Change Character",
+						"dad",
+						"nonsenseunwell"
+					]
+				]
+			],
+			[
+				35294.1176470588,
+				[
+					[
+						"Change Character",
+						"bf",
+						"spongunwell"
+					]
+				]
+			],
+			[
+				36470.5882352941,
+				[
+					[
+						"Change Character",
+						"dad",
+						"luacleavi"
+					]
+				]
+			],
+			[
+				37647.0588235294,
+				[
+					[
+						"Change Character",
+						"bf",
+						"mariokirbyunwell"
+					]
+				]
+			],
+			[
+				38823.5294117647,
+				[
+					[
+						"Play Animation",
+						"scream",
+						"dad"
+					]
+				]
+			],
+			[
+				40000,
+				[
+					[
+						"Change Character",
+						"dad",
+						"skymadunwell"
+					]
+				]
+			],
+			[
+				42352.9411764706,
+				[
+					[
+						"Change Character",
+						"bf",
+						"skiunwell"
+					]
+				]
+			],
+			[
+				50000,
+				[
+					[
+						"Play Animation",
+						"cardboard",
+						"dad"
+					]
+				]
+			],
+			[
+				50588.2352941176,
+				[
+					[
+						"Change Character",
+						"dad",
+						"jimunwell"
+					],
+					[
+						"Play Animation",
+						"popin",
+						"dad"
+					]
+				]
+			],
+			[
+				51176.4705882353,
+				[
+					[
+						"Play Animation",
+						"dropdown",
+						"gf"
+					],
+					[
+						"SetCamZoom",
+						"0.8",
+						""
+					],
+					[
+						"Camera Follow Pos",
+						"640",
+						"620"
+					]
+				]
+			],
+			[
+				51470.5882352941,
+				[
+					[
+						"Alt Idle Animation",
+						"gf",
+						"-alt"
+					]
+				]
+			]
+		]
+	}
+}

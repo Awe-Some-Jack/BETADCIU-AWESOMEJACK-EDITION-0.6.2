@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Luacle_context2.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Luria Idle-alt0000" x="0" y="0" width="320" height="404" frameX="-3" frameY="-27" frameWidth="324" frameHeight="432"/>
+	<SubTexture name="Luria Idle-alt0001" x="0" y="0" width="320" height="404" frameX="-3" frameY="-27" frameWidth="324" frameHeight="432"/>
+	<SubTexture name="Luria Idle-alt0002" x="320" y="0" width="324" height="421" frameX="0" frameY="-10" frameWidth="324" frameHeight="432"/>
+	<SubTexture name="Luria Idle-alt0003" x="320" y="0" width="324" height="421" frameX="0" frameY="-10" frameWidth="324" frameHeight="432"/>
+	<SubTexture name="Luria Idle-alt0004" x="644" y="0" width="315" height="432" frameX="-3" frameY="0" frameWidth="324" frameHeight="432"/>
+	<SubTexture name="Luria Idle-alt0005" x="644" y="0" width="315" height="432" frameX="-3" frameY="0" frameWidth="324" frameHeight="432"/>
+	<SubTexture name="Luria Idle-alt0006" x="644" y="0" width="315" height="432" frameX="-3" frameY="0" frameWidth="324" frameHeight="432"/>
+	<SubTexture name="Luria Idle-alt0007" x="644" y="0" width="315" height="432" frameX="-3" frameY="0" frameWidth="324" frameHeight="432"/>
+	<SubTexture name="Luria Idle-alt0008" x="644" y="0" width="315" height="432" frameX="-3" frameY="0" frameWidth="324" frameHeight="432"/>
+	<SubTexture name="Luria Idle-alt0009" x="644" y="0" width="315" height="432" frameX="-3" frameY="0" frameWidth="324" frameHeight="432"/>
+	<SubTexture name="Luria Idle-alt0010" x="644" y="0" width="315" height="432" frameX="-3" frameY="0" frameWidth="324" frameHeight="432"/>
+	<SubTexture name="Luria Idle-alt0011" x="644" y="0" width="315" height="432" frameX="-3" frameY="0" frameWidth="324" frameHeight="432"/>
+	<SubTexture name="Luria Idle-alt0012" x="644" y="0" width="315" height="432" frameX="-3" frameY="0" frameWidth="324" frameHeight="432"/>
+	<SubTexture name="Luria Idle-alt0013" x="644" y="0" width="315" height="432" frameX="-3" frameY="0" frameWidth="324" frameHeight="432"/>
+	<SubTexture name="Luria Idle-alt0014" x="644" y="0" width="315" height="432" frameX="-3" frameY="0" frameWidth="324" frameHeight="432"/>
+	<SubTexture name="Luria Left-alt0000" x="959" y="0" width="348" height="431" frameX="-8" frameY="-1" frameWidth="356" frameHeight="432"/>
+	<SubTexture name="Luria Left-alt0001" x="959" y="0" width="348" height="431" frameX="-8" frameY="-1" frameWidth="356" frameHeight="432"/>
+	<SubTexture name="Luria Left-alt0002" x="1307" y="0" width="355" height="432" frameX="0" frameY="0" frameWidth="356" frameHeight="432"/>
+	<SubTexture name="Luria Left-alt0003" x="1307" y="0" width="355" height="432" frameX="0" frameY="0" frameWidth="356" frameHeight="432"/>
+	<SubTexture name="Luria Left-alt0004" x="1307" y="0" width="355" height="432" frameX="0" frameY="0" frameWidth="356" frameHeight="432"/>
+	<SubTexture name="Luria Left-alt0005" x="1307" y="0" width="355" height="432" frameX="0" frameY="0" frameWidth="356" frameHeight="432"/>
+	<SubTexture name="Luria Left-alt0006" x="1307" y="0" width="355" height="432" frameX="0" frameY="0" frameWidth="356" frameHeight="432"/>
+	<SubTexture name="Luria Left-alt0007" x="1307" y="0" width="355" height="432" frameX="0" frameY="0" frameWidth="356" frameHeight="432"/>
+	<SubTexture name="Luria Left-alt0008" x="1307" y="0" width="355" height="432" frameX="0" frameY="0" frameWidth="356" frameHeight="432"/>
+	<SubTexture name="Luria Left-alt0009" x="1307" y="0" width="355" height="432" frameX="0" frameY="0" frameWidth="356" frameHeight="432"/>
+	<SubTexture name="Luria Left-alt0010" x="1307" y="0" width="355" height="432" frameX="0" frameY="0" frameWidth="356" frameHeight="432"/>
+	<SubTexture name="Luria Left-alt0011" x="1307" y="0" width="355" height="432" frameX="0" frameY="0" frameWidth="356" frameHeight="432"/>
+	<SubTexture name="Luria Left-alt0012" x="1307" y="0" width="355" height="432" frameX="0" frameY="0" frameWidth="356" frameHeight="432"/>
+	<SubTexture name="Luria Left-alt0013" x="1307" y="0" width="355" height="432" frameX="0" frameY="0" frameWidth="356" frameHeight="432"/>
+	<SubTexture name="Luria Left-alt0014" x="1307" y="0" width="355" height="432" frameX="0" frameY="0" frameWidth="356" frameHeight="432"/>
+	<SubTexture name="Luria Right-alt0000" x="1662" y="0" width="333" height="432" frameX="-6" frameY="0" frameWidth="339" frameHeight="432"/>
+	<SubTexture name="Luria Right-alt0001" x="1662" y="0" width="333" height="432" frameX="-6" frameY="0" frameWidth="339" frameHeight="432"/>
+	<SubTexture name="Luria Right-alt0002" x="0" y="432" width="328" height="432" frameX="0" frameY="0" frameWidth="339" frameHeight="432"/>
+	<SubTexture name="Luria Right-alt0003" x="0" y="432" width="328" height="432" frameX="0" frameY="0" frameWidth="339" frameHeight="432"/>
+	<SubTexture name="Luria Right-alt0004" x="0" y="432" width="328" height="432" frameX="0" frameY="0" frameWidth="339" frameHeight="432"/>
+	<SubTexture name="Luria Right-alt0005" x="0" y="432" width="328" height="432" frameX="0" frameY="0" frameWidth="339" frameHeight="432"/>
+	<SubTexture name="Luria Right-alt0006" x="0" y="432" width="328" height="432" frameX="0" frameY="0" frameWidth="339" frameHeight="432"/>
+	<SubTexture name="Luria Right-alt0007" x="0" y="432" width="328" height="432" frameX="0" frameY="0" frameWidth="339" frameHeight="432"/>
+	<SubTexture name="Luria Right-alt0008" x="0" y="432" width="328" height="432" frameX="0" frameY="0" frameWidth="339" frameHeight="432"/>
+	<SubTexture name="Luria Right-alt0009" x="0" y="432" width="328" height="432" frameX="0" frameY="0" frameWidth="339" frameHeight="432"/>
+	<SubTexture name="Luria Right-alt0010" x="0" y="432" width="328" height="432" frameX="0" frameY="0" frameWidth="339" frameHeight="432"/>
+	<SubTexture name="Luria Right-alt0011" x="0" y="432" width="328" height="432" frameX="0" frameY="0" frameWidth="339" frameHeight="432"/>
+	<SubTexture name="Luria Right-alt0012" x="0" y="432" width="328" height="432" frameX="0" frameY="0" frameWidth="339" frameHeight="432"/>
+	<SubTexture name="Luria Right-alt0013" x="0" y="432" width="328" height="432" frameX="0" frameY="0" frameWidth="339" frameHeight="432"/>
+	<SubTexture name="Luria Right-alt0014" x="0" y="432" width="328" height="432" frameX="0" frameY="0" frameWidth="339" frameHeight="432"/>
+	<SubTexture name="Luria UP-alt0000" x="328" y="432" width="274" height="435"/>
+	<SubTexture name="Luria UP-alt0001" x="328" y="432" width="274" height="435"/>
+	<SubTexture name="Luria UP-alt0002" x="602" y="432" width="274" height="432" frameX="0" frameY="-3" frameWidth="274" frameHeight="435"/>
+	<SubTexture name="Luria UP-alt0003" x="602" y="432" width="274" height="432" frameX="0" frameY="-3" frameWidth="274" frameHeight="435"/>
+	<SubTexture name="Luria UP-alt0004" x="602" y="432" width="274" height="432" frameX="0" frameY="-3" frameWidth="274" frameHeight="435"/>
+	<SubTexture name="Luria UP-alt0005" x="602" y="432" width="274" height="432" frameX="0" frameY="-3" frameWidth="274" frameHeight="435"/>
+	<SubTexture name="Luria UP-alt0006" x="602" y="432" width="274" height="432" frameX="0" frameY="-3" frameWidth="274" frameHeight="435"/>
+	<SubTexture name="Luria UP-alt0007" x="602" y="432" width="274" height="432" frameX="0" frameY="-3" frameWidth="274" frameHeight="435"/>
+	<SubTexture name="Luria UP-alt0008" x="602" y="432" width="274" height="432" frameX="0" frameY="-3" frameWidth="274" frameHeight="435"/>
+	<SubTexture name="Luria UP-alt0009" x="602" y="432" width="274" height="432" frameX="0" frameY="-3" frameWidth="274" frameHeight="435"/>
+	<SubTexture name="Luria UP-alt0010" x="602" y="432" width="274" height="432" frameX="0" frameY="-3" frameWidth="274" frameHeight="435"/>
+	<SubTexture name="Luria UP-alt0011" x="602" y="432" width="274" height="432" frameX="0" frameY="-3" frameWidth="274" frameHeight="435"/>
+	<SubTexture name="Luria UP-alt0012" x="602" y="432" width="274" height="432" frameX="0" frameY="-3" frameWidth="274" frameHeight="435"/>
+	<SubTexture name="Luria UP-alt0013" x="602" y="432" width="274" height="432" frameX="0" frameY="-3" frameWidth="274" frameHeight="435"/>
+	<SubTexture name="Luria UP-alt0014" x="602" y="432" width="274" height="432" frameX="0" frameY="-3" frameWidth="274" frameHeight="435"/>
+	<SubTexture name="LuriaDown-alt0000" x="876" y="432" width="274" height="414" frameX="0" frameY="-16" frameWidth="274" frameHeight="432"/>
+	<SubTexture name="LuriaDown-alt0001" x="876" y="432" width="274" height="414" frameX="0" frameY="-16" frameWidth="274" frameHeight="432"/>
+	<SubTexture name="LuriaDown-alt0002" x="1150" y="432" width="274" height="432"/>
+	<SubTexture name="LuriaDown-alt0003" x="1150" y="432" width="274" height="432"/>
+	<SubTexture name="LuriaDown-alt0004" x="1150" y="432" width="274" height="432"/>
+	<SubTexture name="LuriaDown-alt0005" x="1150" y="432" width="274" height="432"/>
+	<SubTexture name="LuriaDown-alt0006" x="1150" y="432" width="274" height="432"/>
+	<SubTexture name="LuriaDown-alt0007" x="1150" y="432" width="274" height="432"/>
+	<SubTexture name="LuriaDown-alt0008" x="1150" y="432" width="274" height="432"/>
+	<SubTexture name="LuriaDown-alt0009" x="1150" y="432" width="274" height="432"/>
+	<SubTexture name="LuriaDown-alt0010" x="1150" y="432" width="274" height="432"/>
+	<SubTexture name="LuriaDown-alt0011" x="1150" y="432" width="274" height="432"/>
+	<SubTexture name="LuriaDown-alt0012" x="1150" y="432" width="274" height="432"/>
+	<SubTexture name="LuriaDown-alt0013" x="1150" y="432" width="274" height="432"/>
+	<SubTexture name="LuriaDown-alt0014" x="1150" y="432" width="274" height="432"/>
+</TextureAtlas>

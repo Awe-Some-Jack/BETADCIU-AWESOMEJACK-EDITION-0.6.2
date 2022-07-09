@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "newrdidle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "newrdleft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "newrddown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "newrdup",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "newrdright",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/newrdunwell",
+	"position": [
+		0,
+		140
+	],
+	"healthicon": "rdunwell",
+	"flip_x": false,
+	"healthbar_colors": [
+		203,
+		203,
+		203
+	],
+	"camera_position": [
+		0,
+		110
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

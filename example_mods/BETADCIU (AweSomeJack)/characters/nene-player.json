@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Pico Idle Dance"
+		},
+		{
+			"offsets": [
+				0,
+				3
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Pico Note Right"
+		},
+		{
+			"offsets": [
+				-6,
+				-5
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "PICO NOTE LEFT"
+		},
+		{
+			"offsets": [
+				50,
+				-80
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Pico Down Note"
+		},
+		{
+			"offsets": [
+				-50,
+				30
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "pico Up note"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Nene_FNF_assets",
+	"position": [
+		-90,
+		340
+	],
+	"healthicon": "nene",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		161
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

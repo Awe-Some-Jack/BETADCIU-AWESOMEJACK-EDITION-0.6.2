@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="nurse-kilrov.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="nurse Sing Note DOWN0000" x="0" y="0" width="387" height="617" pivotX="-16.65" pivotY="17"/>
+	<SubTexture name="nurse Sing Note DOWN0001" x="0" y="0" width="387" height="617"/>
+	<SubTexture name="nurse Sing Note DOWN0002" x="387" y="0" width="387" height="617"/>
+	<SubTexture name="nurse Sing Note DOWN0003" x="387" y="0" width="387" height="617"/>
+	<SubTexture name="nurse Sing Note DOWN0004" x="387" y="0" width="387" height="617"/>
+	<SubTexture name="nurse Sing Note DOWN0005" x="387" y="0" width="387" height="617"/>
+	<SubTexture name="nurse Sing Note DOWN0006" x="387" y="0" width="387" height="617"/>
+	<SubTexture name="nurse Sing Note DOWN0007" x="387" y="0" width="387" height="617"/>
+	<SubTexture name="nurse Sing Note DOWN0008" x="387" y="0" width="387" height="617"/>
+	<SubTexture name="nurse Sing Note DOWN0009" x="387" y="0" width="387" height="617"/>
+	<SubTexture name="nurse Sing Note LEFT0000" x="774" y="0" width="417" height="617" pivotX="14.75" pivotY="4"/>
+	<SubTexture name="nurse Sing Note LEFT0001" x="774" y="0" width="417" height="617"/>
+	<SubTexture name="nurse Sing Note LEFT0002" x="1191" y="0" width="417" height="617"/>
+	<SubTexture name="nurse Sing Note LEFT0003" x="1191" y="0" width="417" height="617"/>
+	<SubTexture name="nurse Sing Note LEFT0004" x="1191" y="0" width="417" height="617"/>
+	<SubTexture name="nurse Sing Note LEFT0005" x="1191" y="0" width="417" height="617"/>
+	<SubTexture name="nurse Sing Note LEFT0006" x="1191" y="0" width="417" height="617"/>
+	<SubTexture name="nurse Sing Note LEFT0007" x="1191" y="0" width="417" height="617"/>
+	<SubTexture name="nurse Sing Note LEFT0008" x="1191" y="0" width="417" height="617"/>
+	<SubTexture name="nurse Sing Note LEFT0009" x="1191" y="0" width="417" height="617"/>
+	<SubTexture name="nurse Sing Note RIGHT0000" x="1608" y="0" width="471" height="614" pivotX="0.55" pivotY="4"/>
+	<SubTexture name="nurse Sing Note RIGHT0001" x="1608" y="0" width="471" height="614"/>
+	<SubTexture name="nurse Sing Note RIGHT0002" x="2079" y="0" width="471" height="614"/>
+	<SubTexture name="nurse Sing Note RIGHT0003" x="2079" y="0" width="471" height="614"/>
+	<SubTexture name="nurse Sing Note RIGHT0004" x="2079" y="0" width="471" height="614"/>
+	<SubTexture name="nurse Sing Note RIGHT0005" x="2079" y="0" width="471" height="614"/>
+	<SubTexture name="nurse Sing Note RIGHT0006" x="2079" y="0" width="471" height="614"/>
+	<SubTexture name="nurse Sing Note RIGHT0007" x="2079" y="0" width="471" height="614"/>
+	<SubTexture name="nurse Sing Note RIGHT0008" x="2079" y="0" width="471" height="614"/>
+	<SubTexture name="nurse Sing Note RIGHT0009" x="2079" y="0" width="471" height="614"/>
+	<SubTexture name="nurse Sing Note UP0000" x="2550" y="0" width="424" height="604" pivotX="-21.45" pivotY="13.9"/>
+	<SubTexture name="nurse Sing Note UP0001" x="2550" y="0" width="424" height="604"/>
+	<SubTexture name="nurse Sing Note UP0002" x="2974" y="0" width="424" height="604"/>
+	<SubTexture name="nurse Sing Note UP0003" x="2974" y="0" width="424" height="604"/>
+	<SubTexture name="nurse Sing Note UP0004" x="2974" y="0" width="424" height="604"/>
+	<SubTexture name="nurse Sing Note UP0005" x="2974" y="0" width="424" height="604"/>
+	<SubTexture name="nurse Sing Note UP0006" x="2974" y="0" width="424" height="604"/>
+	<SubTexture name="nurse Sing Note UP0007" x="2974" y="0" width="424" height="604"/>
+	<SubTexture name="nurse Sing Note UP0008" x="2974" y="0" width="424" height="604"/>
+	<SubTexture name="nurse Sing Note UP0009" x="2974" y="0" width="424" height="604"/>
+	<SubTexture name="nurse idle dance0000" x="3398" y="0" width="418" height="612" pivotX="8.45" pivotY="15.1"/>
+	<SubTexture name="nurse idle dance0001" x="0" y="617" width="418" height="612"/>
+	<SubTexture name="nurse idle dance0002" x="418" y="617" width="418" height="612"/>
+	<SubTexture name="nurse idle dance0003" x="836" y="617" width="418" height="612"/>
+	<SubTexture name="nurse idle dance0004" x="1254" y="617" width="418" height="612"/>
+	<SubTexture name="nurse idle dance0005" x="1672" y="617" width="418" height="612"/>
+	<SubTexture name="nurse idle dance0006" x="2090" y="617" width="418" height="612"/>
+	<SubTexture name="nurse idle dance0007" x="2508" y="617" width="418" height="612"/>
+	<SubTexture name="nurse idle dance0008" x="2926" y="617" width="418" height="612"/>
+	<SubTexture name="nurse idle dance0009" x="3344" y="617" width="418" height="612"/>
+	<SubTexture name="nurse idle dance0010" x="0" y="1229" width="418" height="612"/>
+	<SubTexture name="nurse idle dance0011" x="418" y="1229" width="418" height="612"/>
+	<SubTexture name="nurse idle dance0012" x="836" y="1229" width="418" height="612"/>
+	<SubTexture name="nurse idle dance0013" x="1254" y="1229" width="418" height="612"/>
+</TextureAtlas>

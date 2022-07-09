@@ -1,0 +1,155 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				-130
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "sky annoyed left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				19,
+				-130
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "sky annoyed down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				21,
+				-130
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "sky annoyed up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				-130
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "sky annoyed right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				-128
+			],
+			"anim": "angry",
+			"fps": 24,
+			"name": "sky annoyed grr",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				-130
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "sky annoyed alt left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				19,
+				-130
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "sky annoyed alt down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				21,
+				-130
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "sky annoyed alt up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				-130
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "sky annoyed alt right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				-130
+			],
+			"anim": "ugh",
+			"fps": 24,
+			"name": "sky annoyed ugh",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				-130
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "sky annoyed idle"
+		},
+		{
+			"offsets": [
+				1,
+				-130
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle-alt",
+			"loop": true,
+			"name": "sky annoyed alt idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sky_annoyed_assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "sky",
+	"flip_x": false,
+	"healthbar_colors": [
+		156,
+		110,
+		204
+	],
+	"camera_position": [
+		90,
+		180
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

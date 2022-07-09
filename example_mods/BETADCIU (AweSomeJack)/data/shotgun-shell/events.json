@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 2.8,
+		"stage": "market",
+		"player1": "perry-smlie-player",
+		"player2": "aldryx",
+		"player3": null,
+		"events": [
+			[
+				10666.6666666667,
+				[
+					[
+						"Hey!",
+						"GF",
+						"0.6"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gfjackv2",
+		"bpm": 180,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Shotgun-Shell"
+	}
+}

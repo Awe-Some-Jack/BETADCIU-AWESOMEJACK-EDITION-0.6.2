@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "kfm idle"
+		},
+		{
+			"offsets": [
+				0,
+				-258
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "kfm down"
+		},
+		{
+			"offsets": [
+				6,
+				12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "kfm up"
+		},
+		{
+			"offsets": [
+				384,
+				-168
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "kfm right"
+		},
+		{
+			"offsets": [
+				-50,
+				-38
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "kfm left"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/kfm",
+	"position": [
+		90,
+		270
+	],
+	"healthicon": "kfm",
+	"flip_x": false,
+	"healthbar_colors": [
+		128,
+		148,
+		196
+	],
+	"camera_position": [
+		200,
+		-70
+	],
+	"sing_duration": 6.1,
+	"scale": 6
+}

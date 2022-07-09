@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-35,
+				-428
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 30,
+			"name": "nurse Sing Note LEFT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-87,
+				-424
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 30,
+			"name": "nurse Sing Note DOWN",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-74,
+				-423
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 30,
+			"name": "nurse Sing Note RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-70,
+				-430
+			],
+			"anim": "idle",
+			"fps": 30,
+			"name": "nurse idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-68,
+				-429
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "singUP",
+			"indices": [],
+			"name": "nurse Sing Note UP"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/nurse-kilrov",
+	"position": [
+		0,
+		-310
+	],
+	"healthicon": "icon-kilrov",
+	"flip_x": false,
+	"healthbar_colors": [
+		135,
+		135,
+		135
+	],
+	"camera_position": [
+		180,
+		480
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

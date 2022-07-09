@@ -1,0 +1,230 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceLeft",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			],
+			"name": "Idle0"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceRight",
+			"indices": [
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27
+			],
+			"name": "Idle0"
+		},
+		{
+			"offsets": [
+				3,
+				-53
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "NoteDown"
+		},
+		{
+			"offsets": [
+				7,
+				-18
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "NoteLeft"
+		},
+		{
+			"offsets": [
+				23,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "NoteRight"
+		},
+		{
+			"offsets": [
+				14,
+				17
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "NoteUp"
+		},
+		{
+			"offsets": [
+				-8,
+				-4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "sweat",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				28,
+				28,
+				28,
+				28,
+				28,
+				28,
+				28,
+				28,
+				28,
+				28,
+				28,
+				28,
+				28,
+				28,
+				28
+			],
+			"name": "oh no"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-8,
+				-5
+			],
+			"anim": "bruh",
+			"fps": 24,
+			"name": "Bruh",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				15,
+				15,
+				15,
+				15,
+				15,
+				15,
+				15,
+				15,
+				15,
+				15,
+				15,
+				15,
+				15,
+				15,
+				15,
+				15,
+				15,
+				15,
+				15,
+				15,
+				15,
+				15,
+				15,
+				15,
+				15,
+				15,
+				15
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Nonsenseunwell",
+	"position": [
+		0,
+		100
+	],
+	"healthicon": "nonsenseunwell",
+	"flip_x": false,
+	"healthbar_colors": [
+		185,
+		185,
+		185
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

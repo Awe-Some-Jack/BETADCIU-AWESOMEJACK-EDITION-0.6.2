@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-72,
+				-230
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Luria Idle"
+		},
+		{
+			"offsets": [
+				-9,
+				-230
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Luria Left"
+		},
+		{
+			"offsets": [
+				-55,
+				-230
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Luria Right"
+		},
+		{
+			"offsets": [
+				-147,
+				-226
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Luria UP"
+		},
+		{
+			"offsets": [
+				-147,
+				-231
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "LuriaDown"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-77,
+				-230
+			],
+			"anim": "WTF",
+			"fps": 24,
+			"name": "Luria WTF",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-77,
+				-230
+			],
+			"anim": "Angry",
+			"fps": 24,
+			"name": "Luria Angry",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-77,
+				-230
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "happy",
+			"loop": false,
+			"name": "Luria happy"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Luacle_context",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "luacle-old",
+	"flip_x": false,
+	"healthbar_colors": [
+		109,
+		3,
+		148
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1.7
+}

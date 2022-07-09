@@ -1,0 +1,199 @@
+{
+	"song": {
+		"speed": 2.3,
+		"stage": "limoholo night",
+		"player1": "bf-car",
+		"player2": "cocoa-car",
+		"player3": null,
+		"events": [
+			[
+				29812.5,
+				[
+					[
+						"Change Character",
+						"dad",
+						"daisy"
+					]
+				]
+			],
+			[
+				32625,
+				[
+					[
+						"Change Character",
+						"bf",
+						"dan-player"
+					]
+				]
+			],
+			[
+				35812.5,
+				[
+					[
+						"Change Character",
+						"dad",
+						"quartal"
+					]
+				]
+			],
+			[
+				38062.5,
+				[
+					[
+						"Change Character",
+						"bf",
+						"kapi-player"
+					]
+				]
+			],
+			[
+				41437.5,
+				[
+					[
+						"Change Character",
+						"dad",
+						"rosy"
+					]
+				]
+			],
+			[
+				53437.5,
+				[
+					[
+						"Change Character",
+						"bf",
+						"8owser"
+					]
+				]
+			],
+			[
+				64500,
+				[
+					[
+						"Change Character",
+						"bf",
+						"tom-player"
+					],
+					[
+						"Change Character",
+						"dad",
+						"tord-online"
+					]
+				]
+			],
+			[
+				66000,
+				[
+					[
+						"Change Character",
+						"dad",
+						"mad-stand"
+					]
+				]
+			],
+			[
+				69000,
+				[
+					[
+						"Change Character",
+						"bf",
+						"rainbow-dash-player"
+					]
+				]
+			],
+			[
+				72000,
+				[
+					[
+						"Change Character",
+						"dad",
+						"miku"
+					]
+				]
+			],
+			[
+				75000,
+				[
+					[
+						"Change Character",
+						"bf",
+						"sticky"
+					]
+				]
+			],
+			[
+				76500,
+				[
+					[
+						"Change Character",
+						"bf",
+						"lila-player"
+					],
+					[
+						"Change Character",
+						"dad",
+						"spooky"
+					]
+				]
+			],
+			[
+				78000,
+				[
+					[
+						"Change Character",
+						"dad",
+						"taeyai"
+					]
+				]
+			],
+			[
+				84000,
+				[
+					[
+						"Change Character",
+						"bf",
+						"nonsense-player"
+					]
+				]
+			],
+			[
+				89812.5,
+				[
+					[
+						"Change Character",
+						"dad",
+						"fyzure"
+					]
+				]
+			],
+			[
+				92625,
+				[
+					[
+						"Change Character",
+						"bf",
+						"sharv"
+					]
+				]
+			],
+			[
+				95812.5,
+				[
+					[
+						"Change Character",
+						"dad",
+						"cj"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "nepolabo-car",
+		"bpm": 160,
+		"arrowSkin": "holofunk",
+		"needsVoices": true,
+		"song": "Hands"
+	}
+}

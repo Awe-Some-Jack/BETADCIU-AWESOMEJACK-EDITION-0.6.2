@@ -1,0 +1,179 @@
+{
+	"song": {
+		"speed": 2.5,
+		"stage": "BGDDLC-SINGNatsu",
+		"player1": "ddlc-bf",
+		"player2": "natsuki",
+		"player3": null,
+		"events": [
+			[
+				12375,
+				[
+					[
+						"Change Character",
+						"dad",
+						"neonight"
+					]
+				]
+			],
+			[
+				18375,
+				[
+					[
+						"Change Character",
+						"bf",
+						"lylace-player"
+					]
+				]
+			],
+			[
+				24656.25,
+				[
+					[
+						"Change Character",
+						"dad",
+						"fyzure"
+					]
+				]
+			],
+			[
+				30750,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bookey"
+					]
+				]
+			],
+			[
+				36375,
+				[
+					[
+						"Change Character",
+						"dad",
+						"carol"
+					]
+				]
+			],
+			[
+				39562.5,
+				[
+					[
+						"Change Character",
+						"bf",
+						"whitty-player"
+					]
+				]
+			],
+			[
+				48375,
+				[
+					[
+						"Change Character",
+						"bf",
+						"nene-player"
+					],
+					[
+						"Change Character",
+						"dad",
+						"pico"
+					]
+				]
+			],
+			[
+				54375,
+				[
+					[
+						"Change Character",
+						"dad",
+						"mad-stand"
+					],
+					[
+						"Change Character",
+						"bf",
+						"sharv"
+					]
+				]
+			],
+			[
+				60000,
+				[
+					[
+						"Change Character",
+						"dad",
+						"luacle"
+					]
+				]
+			],
+			[
+				66000,
+				[
+					[
+						"Change Character",
+						"bf",
+						"mariokirby"
+					]
+				]
+			],
+			[
+				72000,
+				[
+					[
+						"Change Character",
+						"dad",
+						"taeyai"
+					]
+				]
+			],
+			[
+				78000,
+				[
+					[
+						"Change Character",
+						"bf",
+						"nonsense-player"
+					]
+				]
+			],
+			[
+				84000,
+				[
+					[
+						"Change Character",
+						"dad",
+						"tankman"
+					]
+				]
+			],
+			[
+				88500,
+				[
+					[
+						"Change Character",
+						"bf",
+						"senpai-HD-player"
+					]
+				]
+			],
+			[
+				97500,
+				[
+					[
+						"Play Animation",
+						"ugh",
+						"dad"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "ddlc-gf",
+		"bpm": 160,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "My Sweets"
+	}
+}

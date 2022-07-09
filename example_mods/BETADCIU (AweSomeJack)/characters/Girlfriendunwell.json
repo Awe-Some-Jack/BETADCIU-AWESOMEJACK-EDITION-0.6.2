@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Girlfriend idle dance"
+		},
+		{
+			"offsets": [
+				0,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Girlfriend Sing Note LEFT"
+		},
+		{
+			"offsets": [
+				30,
+				-37
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Girlfriend Sing Note DOWN"
+		},
+		{
+			"offsets": [
+				20,
+				40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Girlfriend Sing Note RIGHT"
+		},
+		{
+			"offsets": [
+				0,
+				41
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Girlfriend Sing Note UP"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Girlfriendunwell",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "gfunwell",
+	"flip_x": false,
+	"healthbar_colors": [
+		82,
+		82,
+		82
+	],
+	"camera_position": [
+		110,
+		170
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

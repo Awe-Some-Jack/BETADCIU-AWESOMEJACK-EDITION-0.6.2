@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="newfs.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="newfsdown0000" x="0" y="0" width="779" height="643"/>
+	<SubTexture name="newfsdown0001" x="0" y="0" width="779" height="643"/>
+	<SubTexture name="newfsdown0002" x="779" y="0" width="779" height="643"/>
+	<SubTexture name="newfsdown0003" x="779" y="0" width="779" height="643"/>
+	<SubTexture name="newfsdown0004" x="779" y="0" width="779" height="643"/>
+	<SubTexture name="newfsidle0000" x="1558" y="0" width="779" height="643"/>
+	<SubTexture name="newfsidle0001" x="1558" y="0" width="779" height="643"/>
+	<SubTexture name="newfsidle0002" x="2337" y="0" width="779" height="643"/>
+	<SubTexture name="newfsidle0003" x="2337" y="0" width="779" height="643"/>
+	<SubTexture name="newfsidle0004" x="3116" y="0" width="779" height="643"/>
+	<SubTexture name="newfsidle0005" x="3116" y="0" width="779" height="643"/>
+	<SubTexture name="newfsidle0006" x="0" y="643" width="779" height="643"/>
+	<SubTexture name="newfsidle0007" x="0" y="643" width="779" height="643"/>
+	<SubTexture name="newfsidle0008" x="779" y="643" width="779" height="643"/>
+	<SubTexture name="newfsidle0009" x="779" y="643" width="779" height="643"/>
+	<SubTexture name="newfsleft0000" x="1558" y="643" width="779" height="643"/>
+	<SubTexture name="newfsleft0001" x="1558" y="643" width="779" height="643"/>
+	<SubTexture name="newfsleft0002" x="2337" y="643" width="779" height="643"/>
+	<SubTexture name="newfsleft0003" x="2337" y="643" width="779" height="643"/>
+	<SubTexture name="newfsleft0004" x="2337" y="643" width="779" height="643"/>
+	<SubTexture name="newfsright0000" x="3116" y="643" width="779" height="643"/>
+	<SubTexture name="newfsright0001" x="3116" y="643" width="779" height="643"/>
+	<SubTexture name="newfsright0002" x="0" y="1286" width="779" height="643"/>
+	<SubTexture name="newfsright0003" x="0" y="1286" width="779" height="643"/>
+	<SubTexture name="newfsright0004" x="0" y="1286" width="779" height="643"/>
+	<SubTexture name="newfsup0000" x="779" y="1286" width="779" height="643"/>
+	<SubTexture name="newfsup0001" x="779" y="1286" width="779" height="643"/>
+	<SubTexture name="newfsup0002" x="1558" y="1286" width="779" height="643"/>
+	<SubTexture name="newfsup0003" x="1558" y="1286" width="779" height="643"/>
+	<SubTexture name="newfsup0004" x="1558" y="1286" width="779" height="643"/>
+</TextureAtlas>

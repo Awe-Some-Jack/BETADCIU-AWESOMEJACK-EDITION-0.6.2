@@ -1,0 +1,331 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="TC_2.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="TC Boom Baby!0000" x="25" y="25" width="328" height="673"/>
+	<SubTexture name="TC Boom Baby!0001" x="378" y="25" width="328" height="673"/>
+	<SubTexture name="TC Boom Baby!0002" x="731" y="25" width="328" height="673"/>
+	<SubTexture name="TC Boom Baby!0003" x="1084" y="25" width="328" height="673"/>
+	<SubTexture name="TC Boom Baby!0004" x="1437" y="25" width="328" height="673"/>
+	<SubTexture name="TC Boom Baby!0005" x="1790" y="25" width="328" height="673"/>
+	<SubTexture name="TC Boom Baby!0006" x="2143" y="25" width="328" height="673"/>
+	<SubTexture name="TC Boom Baby!0007" x="2496" y="25" width="328" height="673"/>
+	<SubTexture name="TC Boom Baby!0008" x="2849" y="25" width="328" height="673"/>
+	<SubTexture name="TC Boom Baby!0009" x="3202" y="25" width="328" height="673"/>
+	<SubTexture name="TC Boom Baby!0010" x="3555" y="25" width="328" height="673"/>
+	<SubTexture name="TC Boom Baby!0011" x="3908" y="25" width="328" height="673"/>
+	<SubTexture name="TC Boom Baby!0012" x="4261" y="25" width="328" height="673"/>
+	<SubTexture name="TC Boom Baby!0013" x="4614" y="25" width="328" height="673"/>
+	<SubTexture name="TC Boom Baby!0014" x="4967" y="25" width="328" height="673"/>
+	<SubTexture name="TC Boom Baby!0015" x="5320" y="25" width="328" height="673"/>
+	<SubTexture name="TC Boom Baby!0016" x="5673" y="25" width="328" height="673"/>
+	<SubTexture name="TC Boom Baby!0017" x="6026" y="25" width="328" height="673"/>
+	<SubTexture name="TC Boom Baby!0018" x="6379" y="25" width="328" height="673"/>
+	<SubTexture name="TC Boom Baby!0019" x="6732" y="25" width="328" height="673"/>
+	<SubTexture name="TC Boom Baby!0020" x="7085" y="25" width="328" height="673"/>
+	<SubTexture name="TC Boom Baby!0021" x="7085" y="25" width="328" height="673"/>
+	<SubTexture name="TC Boom Baby!0022" x="7085" y="25" width="328" height="673"/>
+	<SubTexture name="TC Boom Baby!0023" x="7085" y="25" width="328" height="673"/>
+	<SubTexture name="TC Boom Baby!0024" x="7438" y="25" width="328" height="673"/>
+	<SubTexture name="TC Boom Baby!0025" x="7438" y="25" width="328" height="673"/>
+	<SubTexture name="TC Boom Baby!0026" x="7438" y="25" width="328" height="673"/>
+	<SubTexture name="TC Boom Baby!0027" x="7438" y="25" width="328" height="673"/>
+	<SubTexture name="TC Boom Baby!0028" x="7438" y="25" width="328" height="673"/>
+	<SubTexture name="TC Boom Baby!0029" x="7438" y="25" width="328" height="673"/>
+	<SubTexture name="TC Continue0000" x="25" y="723" width="412" height="655"/>
+	<SubTexture name="TC Continue0001" x="462" y="723" width="412" height="655"/>
+	<SubTexture name="TC Continue0002" x="899" y="723" width="412" height="655"/>
+	<SubTexture name="TC Continue0003" x="1336" y="723" width="412" height="655"/>
+	<SubTexture name="TC Continue0004" x="1773" y="723" width="412" height="655"/>
+	<SubTexture name="TC Continue0005" x="2210" y="723" width="412" height="655"/>
+	<SubTexture name="TC Continue0006" x="2647" y="723" width="412" height="655"/>
+	<SubTexture name="TC Continue0007" x="3084" y="723" width="412" height="655"/>
+	<SubTexture name="TC Continue0008" x="3521" y="723" width="412" height="655"/>
+	<SubTexture name="TC Continue0009" x="3958" y="723" width="412" height="655"/>
+	<SubTexture name="TC Continue0010" x="4395" y="723" width="412" height="655"/>
+	<SubTexture name="TC Continue0011" x="4395" y="723" width="412" height="655"/>
+	<SubTexture name="TC Continue0012" x="4395" y="723" width="412" height="655"/>
+	<SubTexture name="TC Continue0013" x="4395" y="723" width="412" height="655"/>
+	<SubTexture name="TC Continue0014" x="4832" y="723" width="412" height="655"/>
+	<SubTexture name="TC Continue0015" x="4832" y="723" width="412" height="655"/>
+	<SubTexture name="TC Continue0016" x="4832" y="723" width="412" height="655"/>
+	<SubTexture name="TC Continue0017" x="4832" y="723" width="412" height="655"/>
+	<SubTexture name="TC Continue0018" x="4395" y="723" width="412" height="655"/>
+	<SubTexture name="TC Continue0019" x="5269" y="723" width="412" height="655"/>
+	<SubTexture name="TC Continue0020" x="5706" y="723" width="412" height="655"/>
+	<SubTexture name="TC Continue0021" x="6143" y="723" width="412" height="655"/>
+	<SubTexture name="TC Continue0022" x="6580" y="723" width="412" height="655"/>
+	<SubTexture name="TC Continue0023" x="7017" y="723" width="412" height="655"/>
+	<SubTexture name="TC Continue0024" x="7454" y="723" width="412" height="655"/>
+	<SubTexture name="TC Continue0025" x="25" y="1403" width="412" height="655"/>
+	<SubTexture name="TC Continue0026" x="462" y="1403" width="412" height="655"/>
+	<SubTexture name="TC Continue0027" x="899" y="1403" width="412" height="655"/>
+	<SubTexture name="TC Continue0028" x="1336" y="1403" width="412" height="655"/>
+	<SubTexture name="TC Continue0029" x="1773" y="1403" width="412" height="655"/>
+	<SubTexture name="TC Continue0030" x="2210" y="1403" width="412" height="655"/>
+	<SubTexture name="TC Continue0031" x="2647" y="1403" width="412" height="655"/>
+	<SubTexture name="TC Continue0032" x="3084" y="1403" width="412" height="655"/>
+	<SubTexture name="TC Continue0033" x="3521" y="1403" width="412" height="655"/>
+	<SubTexture name="TC Continue0034" x="3958" y="1403" width="412" height="655"/>
+	<SubTexture name="TC Continue0035" x="3958" y="1403" width="412" height="655"/>
+	<SubTexture name="TC Continue0036" x="3958" y="1403" width="412" height="655"/>
+	<SubTexture name="TC Continue0037" x="3958" y="1403" width="412" height="655"/>
+	<SubTexture name="TC Continue0038" x="3958" y="1403" width="412" height="655"/>
+	<SubTexture name="TC Continue0039" x="3958" y="1403" width="412" height="655"/>
+	<SubTexture name="TC Continue0040" x="3958" y="1403" width="412" height="655"/>
+	<SubTexture name="TC Continue0041" x="3958" y="1403" width="412" height="655"/>
+	<SubTexture name="TC Continue0042" x="3958" y="1403" width="412" height="655"/>
+	<SubTexture name="TC Continue0043" x="3958" y="1403" width="412" height="655"/>
+	<SubTexture name="TC Continue0044" x="3958" y="1403" width="412" height="655"/>
+	<SubTexture name="TC Continue0045" x="3958" y="1403" width="412" height="655"/>
+	<SubTexture name="TC Continue0046" x="3958" y="1403" width="412" height="655"/>
+	<SubTexture name="TC Continue0047" x="3958" y="1403" width="412" height="655"/>
+	<SubTexture name="TC Continue0048" x="3958" y="1403" width="412" height="655"/>
+	<SubTexture name="TC Dance Left0000" x="4395" y="1403" width="339" height="655"/>
+	<SubTexture name="TC Dance Left0001" x="4759" y="1403" width="339" height="655"/>
+	<SubTexture name="TC Dance Left0002" x="5123" y="1403" width="339" height="655"/>
+	<SubTexture name="TC Dance Left0003" x="5487" y="1403" width="339" height="655"/>
+	<SubTexture name="TC Dance Left0004" x="5851" y="1403" width="339" height="655"/>
+	<SubTexture name="TC Dance Left0005" x="6215" y="1403" width="339" height="655"/>
+	<SubTexture name="TC Dance Left0006" x="6579" y="1403" width="339" height="655"/>
+	<SubTexture name="TC Dance Left0007" x="6943" y="1403" width="339" height="655"/>
+	<SubTexture name="TC Dance Left0008" x="7307" y="1403" width="339" height="655"/>
+	<SubTexture name="TC Dance Left0009" x="7307" y="1403" width="339" height="655"/>
+	<SubTexture name="TC Dance Left0010" x="7307" y="1403" width="339" height="655"/>
+	<SubTexture name="TC Dance Left0011" x="7307" y="1403" width="339" height="655"/>
+	<SubTexture name="TC Dance Left0012" x="7307" y="1403" width="339" height="655"/>
+	<SubTexture name="TC Dance Left0013" x="7307" y="1403" width="339" height="655"/>
+	<SubTexture name="TC Dance Right0000" x="7671" y="1403" width="347" height="653"/>
+	<SubTexture name="TC Dance Right0001" x="25" y="2083" width="347" height="653"/>
+	<SubTexture name="TC Dance Right0002" x="397" y="2083" width="347" height="653"/>
+	<SubTexture name="TC Dance Right0003" x="769" y="2083" width="347" height="653"/>
+	<SubTexture name="TC Dance Right0004" x="1141" y="2083" width="347" height="653"/>
+	<SubTexture name="TC Dance Right0005" x="1513" y="2083" width="347" height="653"/>
+	<SubTexture name="TC Dance Right0006" x="1885" y="2083" width="347" height="653"/>
+	<SubTexture name="TC Dance Right0007" x="2257" y="2083" width="347" height="653"/>
+	<SubTexture name="TC Dance Right0008" x="2629" y="2083" width="347" height="653"/>
+	<SubTexture name="TC Dance Right0009" x="2629" y="2083" width="347" height="653"/>
+	<SubTexture name="TC Dance Right0010" x="2629" y="2083" width="347" height="653"/>
+	<SubTexture name="TC Dance Right0011" x="2629" y="2083" width="347" height="653"/>
+	<SubTexture name="TC Dance Right0012" x="2629" y="2083" width="347" height="653"/>
+	<SubTexture name="TC Dance Right0013" x="2629" y="2083" width="347" height="653"/>
+	<SubTexture name="TC Dodge Down0000" x="3001" y="2083" width="451" height="545"/>
+	<SubTexture name="TC Dodge Down0001" x="3477" y="2083" width="451" height="545"/>
+	<SubTexture name="TC Dodge Down0002" x="3953" y="2083" width="451" height="545"/>
+	<SubTexture name="TC Dodge Down0003" x="4429" y="2083" width="451" height="545"/>
+	<SubTexture name="TC Dodge Left0000" x="4905" y="2083" width="427" height="634"/>
+	<SubTexture name="TC Dodge Left0001" x="5357" y="2083" width="427" height="634"/>
+	<SubTexture name="TC Dodge Left0002" x="5809" y="2083" width="427" height="634"/>
+	<SubTexture name="TC Dodge Left0003" x="6261" y="2083" width="427" height="634"/>
+	<SubTexture name="TC Dodge Right0000" x="6713" y="2083" width="391" height="638"/>
+	<SubTexture name="TC Dodge Right0001" x="7129" y="2083" width="391" height="638"/>
+	<SubTexture name="TC Dodge Right0002" x="7545" y="2083" width="391" height="638"/>
+	<SubTexture name="TC Dodge Right0003" x="25" y="2761" width="391" height="638"/>
+	<SubTexture name="TC Dodge Up0000" x="441" y="2761" width="447" height="664"/>
+	<SubTexture name="TC Dodge Up0001" x="913" y="2761" width="447" height="664"/>
+	<SubTexture name="TC Dodge Up0002" x="1385" y="2761" width="447" height="664"/>
+	<SubTexture name="TC Dodge Up0003" x="1857" y="2761" width="447" height="664"/>
+	<SubTexture name="TC Down0000" x="2329" y="2761" width="450" height="599"/>
+	<SubTexture name="TC Down0001" x="2804" y="2761" width="450" height="599"/>
+	<SubTexture name="TC Down0002" x="3279" y="2761" width="450" height="599"/>
+	<SubTexture name="TC Down0003" x="3754" y="2761" width="450" height="599"/>
+	<SubTexture name="TC Down0004" x="4229" y="2761" width="450" height="599"/>
+	<SubTexture name="TC Down0005" x="4704" y="2761" width="450" height="599"/>
+	<SubTexture name="TC Down0006" x="5179" y="2761" width="450" height="599"/>
+	<SubTexture name="TC Down0007" x="5179" y="2761" width="450" height="599"/>
+	<SubTexture name="TC Down0008" x="5179" y="2761" width="450" height="599"/>
+	<SubTexture name="TC Down0009" x="5179" y="2761" width="450" height="599"/>
+	<SubTexture name="TC Down0010" x="5179" y="2761" width="450" height="599"/>
+	<SubTexture name="TC Down0011" x="5179" y="2761" width="450" height="599"/>
+	<SubTexture name="TC Down0012" x="5179" y="2761" width="450" height="599"/>
+	<SubTexture name="TC Down0013" x="5179" y="2761" width="450" height="599"/>
+	<SubTexture name="TC Game Over0000" x="5654" y="2761" width="573" height="658"/>
+	<SubTexture name="TC Game Over0001" x="6252" y="2761" width="573" height="658"/>
+	<SubTexture name="TC Game Over0002" x="6850" y="2761" width="573" height="658"/>
+	<SubTexture name="TC Game Over0003" x="7448" y="2761" width="573" height="658"/>
+	<SubTexture name="TC Game Over0004" x="25" y="3450" width="573" height="658"/>
+	<SubTexture name="TC Game Over0005" x="623" y="3450" width="573" height="658"/>
+	<SubTexture name="TC Game Over0006" x="1221" y="3450" width="573" height="658"/>
+	<SubTexture name="TC Game Over0007" x="1819" y="3450" width="573" height="658"/>
+	<SubTexture name="TC Game Over0008" x="2417" y="3450" width="573" height="658"/>
+	<SubTexture name="TC Game Over0009" x="2417" y="3450" width="573" height="658"/>
+	<SubTexture name="TC Game Over0010" x="2417" y="3450" width="573" height="658"/>
+	<SubTexture name="TC Game Over0011" x="2417" y="3450" width="573" height="658"/>
+	<SubTexture name="TC Game Over0012" x="2417" y="3450" width="573" height="658"/>
+	<SubTexture name="TC Game Over0013" x="2417" y="3450" width="573" height="658"/>
+	<SubTexture name="TC Game Over0014" x="2417" y="3450" width="573" height="658"/>
+	<SubTexture name="TC Game Over0015" x="2417" y="3450" width="573" height="658"/>
+	<SubTexture name="TC Game Over0016" x="2417" y="3450" width="573" height="658"/>
+	<SubTexture name="TC Game Over0017" x="2417" y="3450" width="573" height="658"/>
+	<SubTexture name="TC Game Over0018" x="2417" y="3450" width="573" height="658"/>
+	<SubTexture name="TC Game Over0019" x="3015" y="3450" width="573" height="658"/>
+	<SubTexture name="TC Game Over0020" x="3613" y="3450" width="573" height="658"/>
+	<SubTexture name="TC Game Over0021" x="4211" y="3450" width="573" height="658"/>
+	<SubTexture name="TC Game Over0022" x="4809" y="3450" width="573" height="658"/>
+	<SubTexture name="TC Game Over0023" x="5407" y="3450" width="573" height="658"/>
+	<SubTexture name="TC Game Over0024" x="6005" y="3450" width="573" height="658"/>
+	<SubTexture name="TC Game Over0025" x="6603" y="3450" width="573" height="658"/>
+	<SubTexture name="TC Game Over0026" x="7201" y="3450" width="573" height="658"/>
+	<SubTexture name="TC Game Over0027" x="25" y="4133" width="573" height="658"/>
+	<SubTexture name="TC Game Over0028" x="623" y="4133" width="573" height="658"/>
+	<SubTexture name="TC Game Over0029" x="1221" y="4133" width="573" height="658"/>
+	<SubTexture name="TC Game Over0030" x="1221" y="4133" width="573" height="658"/>
+	<SubTexture name="TC Game Over0031" x="1819" y="4133" width="573" height="658"/>
+	<SubTexture name="TC Game Over0032" x="2417" y="4133" width="573" height="658"/>
+	<SubTexture name="TC Game Over0033" x="3015" y="4133" width="573" height="658"/>
+	<SubTexture name="TC Game Over0034" x="3015" y="4133" width="573" height="658"/>
+	<SubTexture name="TC Game Over0035" x="3015" y="4133" width="573" height="658"/>
+	<SubTexture name="TC Game Over0036" x="3613" y="4133" width="573" height="658"/>
+	<SubTexture name="TC Game Over0037" x="3613" y="4133" width="573" height="658"/>
+	<SubTexture name="TC Game Over0038" x="3613" y="4133" width="573" height="658"/>
+	<SubTexture name="TC Game Over0039" x="4211" y="4133" width="573" height="658"/>
+	<SubTexture name="TC Game Over0040" x="4809" y="4133" width="573" height="658"/>
+	<SubTexture name="TC Game Over0041" x="5407" y="4133" width="573" height="658"/>
+	<SubTexture name="TC Game Over0042" x="6005" y="4133" width="573" height="658"/>
+	<SubTexture name="TC Game Over0043" x="6603" y="4133" width="573" height="658"/>
+	<SubTexture name="TC Game Over0044" x="7201" y="4133" width="573" height="658"/>
+	<SubTexture name="TC Game Over0045" x="25" y="4816" width="573" height="658"/>
+	<SubTexture name="TC Game Over0046" x="623" y="4816" width="573" height="658"/>
+	<SubTexture name="TC Game Over0047" x="1221" y="4816" width="573" height="658"/>
+	<SubTexture name="TC Game Over0048" x="1819" y="4816" width="573" height="658"/>
+	<SubTexture name="TC Game Over0049" x="2417" y="4816" width="573" height="658"/>
+	<SubTexture name="TC Game Over0050" x="3015" y="4816" width="573" height="658"/>
+	<SubTexture name="TC Game Over0051" x="3613" y="4816" width="573" height="658"/>
+	<SubTexture name="TC Game Over0052" x="4211" y="4816" width="573" height="658"/>
+	<SubTexture name="TC Game Over0053" x="4809" y="4816" width="573" height="658"/>
+	<SubTexture name="TC Game Over0054" x="5407" y="4816" width="573" height="658"/>
+	<SubTexture name="TC Game Over0055" x="5407" y="4816" width="573" height="658"/>
+	<SubTexture name="TC Game Over0056" x="5407" y="4816" width="573" height="658"/>
+	<SubTexture name="TC Game Over0057" x="5407" y="4816" width="573" height="658"/>
+	<SubTexture name="TC Game Over0058" x="5407" y="4816" width="573" height="658"/>
+	<SubTexture name="TC Hey0000" x="6005" y="4816" width="367" height="661"/>
+	<SubTexture name="TC Hey0001" x="6397" y="4816" width="367" height="661"/>
+	<SubTexture name="TC Hey0002" x="6789" y="4816" width="367" height="661"/>
+	<SubTexture name="TC Hey0003" x="7181" y="4816" width="367" height="661"/>
+	<SubTexture name="TC Hey0004" x="7573" y="4816" width="367" height="661"/>
+	<SubTexture name="TC Hey0005" x="7573" y="4816" width="367" height="661"/>
+	<SubTexture name="TC Hey0006" x="7573" y="4816" width="367" height="661"/>
+	<SubTexture name="TC Hey0007" x="7573" y="4816" width="367" height="661"/>
+	<SubTexture name="TC Hey0008" x="7573" y="4816" width="367" height="661"/>
+	<SubTexture name="TC Hey0009" x="7573" y="4816" width="367" height="661"/>
+	<SubTexture name="TC Hey0010" x="7573" y="4816" width="367" height="661"/>
+	<SubTexture name="TC Hey0011" x="7573" y="4816" width="367" height="661"/>
+	<SubTexture name="TC Hey0012" x="7573" y="4816" width="367" height="661"/>
+	<SubTexture name="TC Hey0013" x="7573" y="4816" width="367" height="661"/>
+	<SubTexture name="TC Left0000" x="25" y="5502" width="369" height="648"/>
+	<SubTexture name="TC Left0001" x="419" y="5502" width="369" height="648"/>
+	<SubTexture name="TC Left0002" x="813" y="5502" width="369" height="648"/>
+	<SubTexture name="TC Left0003" x="1207" y="5502" width="369" height="648"/>
+	<SubTexture name="TC Left0004" x="1601" y="5502" width="369" height="648"/>
+	<SubTexture name="TC Left0005" x="1995" y="5502" width="369" height="648"/>
+	<SubTexture name="TC Left0006" x="2389" y="5502" width="369" height="648"/>
+	<SubTexture name="TC Left0007" x="2389" y="5502" width="369" height="648"/>
+	<SubTexture name="TC Left0008" x="2389" y="5502" width="369" height="648"/>
+	<SubTexture name="TC Left0009" x="2389" y="5502" width="369" height="648"/>
+	<SubTexture name="TC Left0010" x="2389" y="5502" width="369" height="648"/>
+	<SubTexture name="TC Left0011" x="2389" y="5502" width="369" height="648"/>
+	<SubTexture name="TC Left0012" x="2389" y="5502" width="369" height="648"/>
+	<SubTexture name="TC Left0013" x="2389" y="5502" width="369" height="648"/>
+	<SubTexture name="TC Miss Down0000" x="2783" y="5502" width="441" height="602"/>
+	<SubTexture name="TC Miss Down0001" x="2783" y="5502" width="441" height="602"/>
+	<SubTexture name="TC Miss Down0002" x="3249" y="5502" width="441" height="602"/>
+	<SubTexture name="TC Miss Down0003" x="3249" y="5502" width="441" height="602"/>
+	<SubTexture name="TC Miss Down0004" x="3249" y="5502" width="441" height="602"/>
+	<SubTexture name="TC Miss Down0005" x="3249" y="5502" width="441" height="602"/>
+	<SubTexture name="TC Miss Down0006" x="3249" y="5502" width="441" height="602"/>
+	<SubTexture name="TC Miss Down0007" x="3249" y="5502" width="441" height="602"/>
+	<SubTexture name="TC Miss Down0008" x="3249" y="5502" width="441" height="602"/>
+	<SubTexture name="TC Miss Down0009" x="3249" y="5502" width="441" height="602"/>
+	<SubTexture name="TC Miss Down0010" x="3249" y="5502" width="441" height="602"/>
+	<SubTexture name="TC Miss Down0011" x="3249" y="5502" width="441" height="602"/>
+	<SubTexture name="TC Miss Down0012" x="3249" y="5502" width="441" height="602"/>
+	<SubTexture name="TC Miss Down0013" x="3249" y="5502" width="441" height="602"/>
+	<SubTexture name="TC Miss Left0000" x="3715" y="5502" width="359" height="648"/>
+	<SubTexture name="TC Miss Left0001" x="3715" y="5502" width="359" height="648"/>
+	<SubTexture name="TC Miss Left0002" x="4099" y="5502" width="359" height="648"/>
+	<SubTexture name="TC Miss Left0003" x="4099" y="5502" width="359" height="648"/>
+	<SubTexture name="TC Miss Left0004" x="4099" y="5502" width="359" height="648"/>
+	<SubTexture name="TC Miss Left0005" x="4099" y="5502" width="359" height="648"/>
+	<SubTexture name="TC Miss Left0006" x="4099" y="5502" width="359" height="648"/>
+	<SubTexture name="TC Miss Left0007" x="4099" y="5502" width="359" height="648"/>
+	<SubTexture name="TC Miss Left0008" x="4099" y="5502" width="359" height="648"/>
+	<SubTexture name="TC Miss Left0009" x="4099" y="5502" width="359" height="648"/>
+	<SubTexture name="TC Miss Left0010" x="4099" y="5502" width="359" height="648"/>
+	<SubTexture name="TC Miss Left0011" x="4099" y="5502" width="359" height="648"/>
+	<SubTexture name="TC Miss Left0012" x="4099" y="5502" width="359" height="648"/>
+	<SubTexture name="TC Miss Left0013" x="4099" y="5502" width="359" height="648"/>
+	<SubTexture name="TC Miss Right0000" x="4483" y="5502" width="381" height="640"/>
+	<SubTexture name="TC Miss Right0001" x="4483" y="5502" width="381" height="640"/>
+	<SubTexture name="TC Miss Right0002" x="4889" y="5502" width="381" height="640"/>
+	<SubTexture name="TC Miss Right0003" x="4889" y="5502" width="381" height="640"/>
+	<SubTexture name="TC Miss Right0004" x="4889" y="5502" width="381" height="640"/>
+	<SubTexture name="TC Miss Right0005" x="4889" y="5502" width="381" height="640"/>
+	<SubTexture name="TC Miss Right0006" x="4889" y="5502" width="381" height="640"/>
+	<SubTexture name="TC Miss Right0007" x="4889" y="5502" width="381" height="640"/>
+	<SubTexture name="TC Miss Right0008" x="4889" y="5502" width="381" height="640"/>
+	<SubTexture name="TC Miss Right0009" x="4889" y="5502" width="381" height="640"/>
+	<SubTexture name="TC Miss Right0010" x="4889" y="5502" width="381" height="640"/>
+	<SubTexture name="TC Miss Right0011" x="4889" y="5502" width="381" height="640"/>
+	<SubTexture name="TC Miss Right0012" x="4889" y="5502" width="381" height="640"/>
+	<SubTexture name="TC Miss Right0013" x="4889" y="5502" width="381" height="640"/>
+	<SubTexture name="TC Miss Up0000" x="5295" y="5502" width="446" height="644"/>
+	<SubTexture name="TC Miss Up0001" x="5295" y="5502" width="446" height="644"/>
+	<SubTexture name="TC Miss Up0002" x="5766" y="5502" width="446" height="644"/>
+	<SubTexture name="TC Miss Up0003" x="5766" y="5502" width="446" height="644"/>
+	<SubTexture name="TC Miss Up0004" x="5766" y="5502" width="446" height="644"/>
+	<SubTexture name="TC Miss Up0005" x="5766" y="5502" width="446" height="644"/>
+	<SubTexture name="TC Miss Up0006" x="5766" y="5502" width="446" height="644"/>
+	<SubTexture name="TC Miss Up0007" x="5766" y="5502" width="446" height="644"/>
+	<SubTexture name="TC Miss Up0008" x="5766" y="5502" width="446" height="644"/>
+	<SubTexture name="TC Miss Up0009" x="5766" y="5502" width="446" height="644"/>
+	<SubTexture name="TC Miss Up0010" x="5766" y="5502" width="446" height="644"/>
+	<SubTexture name="TC Miss Up0011" x="5766" y="5502" width="446" height="644"/>
+	<SubTexture name="TC Miss Up0012" x="5766" y="5502" width="446" height="644"/>
+	<SubTexture name="TC Miss Up0013" x="5766" y="5502" width="446" height="644"/>
+	<SubTexture name="TC Retry Loop0000" x="6237" y="5502" width="378" height="618"/>
+	<SubTexture name="TC Retry Loop0001" x="6640" y="5502" width="378" height="618"/>
+	<SubTexture name="TC Retry Loop0002" x="7043" y="5502" width="378" height="618"/>
+	<SubTexture name="TC Retry Loop0003" x="7446" y="5502" width="378" height="618"/>
+	<SubTexture name="TC Retry Loop0004" x="25" y="6175" width="378" height="618"/>
+	<SubTexture name="TC Retry Loop0005" x="428" y="6175" width="378" height="618"/>
+	<SubTexture name="TC Retry Loop0006" x="831" y="6175" width="378" height="618"/>
+	<SubTexture name="TC Retry Loop0007" x="1234" y="6175" width="378" height="618"/>
+	<SubTexture name="TC Retry Loop0008" x="1637" y="6175" width="378" height="618"/>
+	<SubTexture name="TC Retry Loop0009" x="2040" y="6175" width="378" height="618"/>
+	<SubTexture name="TC Retry Loop0010" x="2443" y="6175" width="378" height="618"/>
+	<SubTexture name="TC Retry Loop0011" x="2846" y="6175" width="378" height="618"/>
+	<SubTexture name="TC Retry Loop0012" x="3249" y="6175" width="378" height="618"/>
+	<SubTexture name="TC Retry Loop0013" x="3652" y="6175" width="378" height="618"/>
+	<SubTexture name="TC Right0000" x="4055" y="6175" width="399" height="642"/>
+	<SubTexture name="TC Right0001" x="4479" y="6175" width="399" height="642"/>
+	<SubTexture name="TC Right0002" x="4903" y="6175" width="399" height="642"/>
+	<SubTexture name="TC Right0003" x="5327" y="6175" width="399" height="642"/>
+	<SubTexture name="TC Right0004" x="5751" y="6175" width="399" height="642"/>
+	<SubTexture name="TC Right0005" x="6175" y="6175" width="399" height="642"/>
+	<SubTexture name="TC Right0006" x="6599" y="6175" width="399" height="642"/>
+	<SubTexture name="TC Right0007" x="6599" y="6175" width="399" height="642"/>
+	<SubTexture name="TC Right0008" x="6599" y="6175" width="399" height="642"/>
+	<SubTexture name="TC Right0009" x="6599" y="6175" width="399" height="642"/>
+	<SubTexture name="TC Right0010" x="6599" y="6175" width="399" height="642"/>
+	<SubTexture name="TC Right0011" x="6599" y="6175" width="399" height="642"/>
+	<SubTexture name="TC Right0012" x="6599" y="6175" width="399" height="642"/>
+	<SubTexture name="TC Right0013" x="6599" y="6175" width="399" height="642"/>
+	<SubTexture name="TC Scared0000" x="7023" y="6175" width="382" height="676"/>
+	<SubTexture name="TC Scared0001" x="7430" y="6175" width="382" height="676"/>
+	<SubTexture name="TC Scared0002" x="25" y="6876" width="382" height="676"/>
+	<SubTexture name="TC Scared0003" x="432" y="6876" width="382" height="676"/>
+	<SubTexture name="TC Up0000" x="839" y="6876" width="429" height="654"/>
+	<SubTexture name="TC Up0001" x="1293" y="6876" width="429" height="654"/>
+	<SubTexture name="TC Up0002" x="1747" y="6876" width="429" height="654"/>
+	<SubTexture name="TC Up0003" x="2201" y="6876" width="429" height="654"/>
+	<SubTexture name="TC Up0004" x="2655" y="6876" width="429" height="654"/>
+	<SubTexture name="TC Up0005" x="3109" y="6876" width="429" height="654"/>
+	<SubTexture name="TC Up0006" x="3563" y="6876" width="429" height="654"/>
+	<SubTexture name="TC Up0007" x="3563" y="6876" width="429" height="654"/>
+	<SubTexture name="TC Up0008" x="3563" y="6876" width="429" height="654"/>
+	<SubTexture name="TC Up0009" x="3563" y="6876" width="429" height="654"/>
+	<SubTexture name="TC Up0010" x="3563" y="6876" width="429" height="654"/>
+	<SubTexture name="TC Up0011" x="3563" y="6876" width="429" height="654"/>
+	<SubTexture name="TC Up0012" x="3563" y="6876" width="429" height="654"/>
+	<SubTexture name="TC Up0013" x="3563" y="6876" width="429" height="654"/>
+</TextureAtlas>

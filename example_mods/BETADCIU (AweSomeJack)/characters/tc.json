@@ -1,0 +1,256 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceLeft",
+			"indices": [],
+			"name": "TC Dance Left"
+		},
+		{
+			"offsets": [
+				4,
+				-4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceRight",
+			"indices": [],
+			"name": "TC Dance Right"
+		},
+		{
+			"offsets": [
+				40,
+				-12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "TC Left"
+		},
+		{
+			"offsets": [
+				16,
+				-56
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "TC Down"
+		},
+		{
+			"offsets": [
+				-9,
+				-4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "TC Up"
+		},
+		{
+			"offsets": [
+				-6,
+				-14
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "TC Right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				35,
+				-8
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "TC Miss Left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				15,
+				-54
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "TC Miss Down"
+		},
+		{
+			"offsets": [
+				2,
+				-12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "TC Miss Up"
+		},
+		{
+			"offsets": [
+				-11,
+				-12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "TC Miss Right"
+		},
+		{
+			"offsets": [
+				18,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "TC Hey"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "TC Dance Left",
+			"indices": [
+				0
+			]
+		},
+		{
+			"offsets": [
+				206,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "TC Game Over"
+		},
+		{
+			"offsets": [
+				95,
+				-40
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "TC Retry Loop"
+		},
+		{
+			"offsets": [
+				25,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "TC Continue"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				2,
+				18
+			],
+			"anim": "scared",
+			"fps": 24,
+			"name": "TC Scared",
+			"indices": []
+		},
+		{
+			"offsets": [
+				14,
+				17
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "boombaby",
+			"indices": [],
+			"name": "TC Boom Baby!"
+		},
+		{
+			"offsets": [
+				14,
+				-108
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "dodgeDOWN",
+			"indices": [],
+			"name": "TC Dodge Down"
+		},
+		{
+			"offsets": [
+				90,
+				-2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "dodgeLEFT",
+			"indices": [],
+			"name": "TC Dodge Left"
+		},
+		{
+			"offsets": [
+				-10,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "dodgeRIGHT",
+			"indices": [],
+			"name": "TC Dodge Right"
+		},
+		{
+			"offsets": [
+				-10,
+				5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "dodgeUP",
+			"indices": [],
+			"name": "TC Dodge Up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/TC",
+	"position": [
+		70,
+		120
+	],
+	"healthicon": "tc",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		0,
+		169
+	],
+	"camera_position": [
+		70,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

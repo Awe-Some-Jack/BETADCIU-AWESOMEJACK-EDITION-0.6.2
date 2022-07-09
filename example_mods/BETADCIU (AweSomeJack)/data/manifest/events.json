@@ -1,0 +1,324 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "Manifest",
+		"player1": "bf",
+		"player2": "skymad",
+		"player3": null,
+		"events": [
+			[
+				8533.33333333333,
+				[
+					[
+						"Change Character",
+						"dad",
+						"sunday"
+					]
+				]
+			],
+			[
+				12800,
+				[
+					[
+						"Change Character",
+						"bf",
+						"carol-player"
+					]
+				]
+			],
+			[
+				17066.6666666667,
+				[
+					[
+						"Change Character",
+						"dad",
+						"kadedev"
+					]
+				]
+			],
+			[
+				19733.3333333333,
+				[
+					[
+						"Change Character",
+						"bf",
+						"tord"
+					]
+				]
+			],
+			[
+				22400,
+				[
+					[
+						"Change Character",
+						"dad",
+						"neon"
+					]
+				]
+			],
+			[
+				25066.6666666667,
+				[
+					[
+						"Change Character",
+						"bf",
+						"annie-player"
+					]
+				]
+			],
+			[
+				27733.3333333333,
+				[
+					[
+						"Change Character",
+						"dad",
+						"cg5"
+					]
+				]
+			],
+			[
+				32000,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bigbro-player"
+					]
+				]
+			],
+			[
+				36266.6666666667,
+				[
+					[
+						"Change Character",
+						"dad",
+						"luacle"
+					]
+				]
+			],
+			[
+				40533.3333333333,
+				[
+					[
+						"Change Character",
+						"bf",
+						"sonic"
+					]
+				]
+			],
+			[
+				44800,
+				[
+					[
+						"Change Character",
+						"dad",
+						"taeyai"
+					]
+				]
+			],
+			[
+				46400,
+				[
+					[
+						"Change Character",
+						"bf",
+						"neopico"
+					]
+				]
+			],
+			[
+				48000,
+				[
+					[
+						"Change Character",
+						"dad",
+						"exgf"
+					]
+				]
+			],
+			[
+				49600,
+				[
+					[
+						"Change Character",
+						"bf",
+						"tabi"
+					]
+				]
+			],
+			[
+				51200,
+				[
+					[
+						"Change Character",
+						"dad",
+						"kb"
+					]
+				]
+			],
+			[
+				52800,
+				[
+					[
+						"Change Character",
+						"bf",
+						"b3bf"
+					]
+				]
+			],
+			[
+				54400,
+				[
+					[
+						"Change Character",
+						"dad",
+						"Kou"
+					]
+				]
+			],
+			[
+				56000,
+				[
+					[
+						"Change Character",
+						"bf",
+						"kapi-player"
+					]
+				]
+			],
+			[
+				57600,
+				[
+					[
+						"Change Character",
+						"dad",
+						"neonight"
+					]
+				]
+			],
+			[
+				61866.6666666666,
+				[
+					[
+						"Change Character",
+						"bf",
+						"sharv"
+					]
+				]
+			],
+			[
+				66133.3333333333,
+				[
+					[
+						"Change Character",
+						"dad",
+						"blantad"
+					]
+				]
+			],
+			[
+				70400,
+				[
+					[
+						"Change Character",
+						"bf",
+						"henry-player"
+					]
+				]
+			],
+			[
+				74666.6666666666,
+				[
+					[
+						"Change Character",
+						"dad",
+						"void"
+					]
+				]
+			],
+			[
+				83200,
+				[
+					[
+						"Change Character",
+						"dad",
+						"sadmouse"
+					]
+				]
+			],
+			[
+				83200,
+				[
+					[
+						"Change Character",
+						"dad",
+						"sadmouse"
+					],
+					[
+						"Change Character",
+						"bf",
+						"steve-player"
+					]
+				]
+			],
+			[
+				91733.3333333334,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bbpanzu"
+					]
+				]
+			],
+			[
+				100266.666666667,
+				[
+					[
+						"Change Character",
+						"dad",
+						"zardy"
+					]
+				]
+			],
+			[
+				104533.333333333,
+				[
+					[
+						"Change Character",
+						"bf",
+						"lila-player"
+					]
+				]
+			],
+			[
+				108800,
+				[
+					[
+						"Change Character",
+						"dad",
+						"hex"
+					]
+				]
+			],
+			[
+				110933.333333333,
+				[
+					[
+						"Change Character",
+						"bf",
+						"whitty-player"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "manifest-gf",
+		"bpm": 225,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Manifest"
+	}
+}

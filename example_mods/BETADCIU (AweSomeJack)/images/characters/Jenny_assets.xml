@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Jenny assets.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="xj9 idle0000" x="0" y="0" width="420" height="605" frameX="0" frameY="-11" frameWidth="423" frameHeight="617"/>
+	<SubTexture name="xj9 idle0001" x="0" y="0" width="420" height="605" frameX="0" frameY="-11" frameWidth="423" frameHeight="617"/>
+	<SubTexture name="xj9 idle0002" x="420" y="0" width="423" height="614" frameX="0" frameY="-2" frameWidth="423" frameHeight="617"/>
+	<SubTexture name="xj9 idle0003" x="420" y="0" width="423" height="614" frameX="0" frameY="-2" frameWidth="423" frameHeight="617"/>
+	<SubTexture name="xj9 idle0004" x="843" y="0" width="400" height="616" frameX="0" frameY="-1" frameWidth="423" frameHeight="617"/>
+	<SubTexture name="xj9 idle0005" x="843" y="0" width="400" height="616" frameX="0" frameY="-1" frameWidth="423" frameHeight="617"/>
+	<SubTexture name="xj9 idle0006" x="1243" y="0" width="399" height="611" frameX="0" frameY="-6" frameWidth="423" frameHeight="617"/>
+	<SubTexture name="xj9 idle0007" x="1243" y="0" width="399" height="611" frameX="0" frameY="-6" frameWidth="423" frameHeight="617"/>
+	<SubTexture name="xj9 idle0008" x="1642" y="0" width="398" height="617" frameX="0" frameY="0" frameWidth="423" frameHeight="617"/>
+	<SubTexture name="xj9 idle0009" x="1642" y="0" width="398" height="617" frameX="0" frameY="0" frameWidth="423" frameHeight="617"/>
+	<SubTexture name="xj9 idle0010" x="1642" y="0" width="398" height="617" frameX="0" frameY="0" frameWidth="423" frameHeight="617"/>
+	<SubTexture name="xj9 idle0011" x="1642" y="0" width="398" height="617" frameX="0" frameY="0" frameWidth="423" frameHeight="617"/>
+	<SubTexture name="xj9 idle0012" x="1642" y="0" width="398" height="617" frameX="0" frameY="0" frameWidth="423" frameHeight="617"/>
+	<SubTexture name="xj9 idle0013" x="1642" y="0" width="398" height="617" frameX="0" frameY="0" frameWidth="423" frameHeight="617"/>
+	<SubTexture name="xj9 note down0000" x="2040" y="0" width="517" height="627"/>
+	<SubTexture name="xj9 note down0001" x="2040" y="0" width="517" height="627"/>
+	<SubTexture name="xj9 note down0002" x="2557" y="0" width="512" height="624" frameX="0" frameY="-3" frameWidth="517" frameHeight="627"/>
+	<SubTexture name="xj9 note down0003" x="2557" y="0" width="512" height="624" frameX="0" frameY="-3" frameWidth="517" frameHeight="627"/>
+	<SubTexture name="xj9 note down0004" x="3069" y="0" width="512" height="624" frameX="0" frameY="-3" frameWidth="517" frameHeight="627"/>
+	<SubTexture name="xj9 note down0005" x="3069" y="0" width="512" height="624" frameX="0" frameY="-3" frameWidth="517" frameHeight="627"/>
+	<SubTexture name="xj9 note down0006" x="3581" y="0" width="512" height="624" frameX="0" frameY="-3" frameWidth="517" frameHeight="627"/>
+	<SubTexture name="xj9 note down0007" x="3581" y="0" width="512" height="624" frameX="0" frameY="-3" frameWidth="517" frameHeight="627"/>
+	<SubTexture name="xj9 note down0008" x="0" y="627" width="512" height="624" frameX="0" frameY="-3" frameWidth="517" frameHeight="627"/>
+	<SubTexture name="xj9 note down0009" x="0" y="627" width="512" height="624" frameX="0" frameY="-3" frameWidth="517" frameHeight="627"/>
+	<SubTexture name="xj9 note down0010" x="512" y="627" width="512" height="624" frameX="0" frameY="-3" frameWidth="517" frameHeight="627"/>
+	<SubTexture name="xj9 note down0011" x="512" y="627" width="512" height="624" frameX="0" frameY="-3" frameWidth="517" frameHeight="627"/>
+	<SubTexture name="xj9 note down0012" x="512" y="627" width="512" height="624" frameX="0" frameY="-3" frameWidth="517" frameHeight="627"/>
+	<SubTexture name="xj9 note down0013" x="512" y="627" width="512" height="624" frameX="0" frameY="-3" frameWidth="517" frameHeight="627"/>
+	<SubTexture name="xj9 note left0000" x="1024" y="627" width="493" height="603" frameX="0" frameY="-3" frameWidth="493" frameHeight="606"/>
+	<SubTexture name="xj9 note left0001" x="1024" y="627" width="493" height="603" frameX="0" frameY="-3" frameWidth="493" frameHeight="606"/>
+	<SubTexture name="xj9 note left0002" x="1517" y="627" width="486" height="606" frameX="-3" frameY="0" frameWidth="493" frameHeight="606"/>
+	<SubTexture name="xj9 note left0003" x="1517" y="627" width="486" height="606" frameX="-3" frameY="0" frameWidth="493" frameHeight="606"/>
+	<SubTexture name="xj9 note left0004" x="2003" y="627" width="486" height="606" frameX="-3" frameY="0" frameWidth="493" frameHeight="606"/>
+	<SubTexture name="xj9 note left0005" x="2003" y="627" width="486" height="606" frameX="-3" frameY="0" frameWidth="493" frameHeight="606"/>
+	<SubTexture name="xj9 note left0006" x="2489" y="627" width="486" height="606" frameX="-3" frameY="0" frameWidth="493" frameHeight="606"/>
+	<SubTexture name="xj9 note left0007" x="2489" y="627" width="486" height="606" frameX="-3" frameY="0" frameWidth="493" frameHeight="606"/>
+	<SubTexture name="xj9 note left0008" x="2975" y="627" width="486" height="606" frameX="-3" frameY="0" frameWidth="493" frameHeight="606"/>
+	<SubTexture name="xj9 note left0009" x="2975" y="627" width="486" height="606" frameX="-3" frameY="0" frameWidth="493" frameHeight="606"/>
+	<SubTexture name="xj9 note left0010" x="3461" y="627" width="486" height="606" frameX="-3" frameY="0" frameWidth="493" frameHeight="606"/>
+	<SubTexture name="xj9 note left0011" x="3461" y="627" width="486" height="606" frameX="-3" frameY="0" frameWidth="493" frameHeight="606"/>
+	<SubTexture name="xj9 note left0012" x="1517" y="627" width="486" height="606" frameX="-3" frameY="0" frameWidth="493" frameHeight="606"/>
+	<SubTexture name="xj9 note left0013" x="1517" y="627" width="486" height="606" frameX="-3" frameY="0" frameWidth="493" frameHeight="606"/>
+	<SubTexture name="xj9 note right0000" x="0" y="1251" width="453" height="599" frameX="-1" frameY="-3" frameWidth="456" frameHeight="602"/>
+	<SubTexture name="xj9 note right0001" x="0" y="1251" width="453" height="599" frameX="-1" frameY="-3" frameWidth="456" frameHeight="602"/>
+	<SubTexture name="xj9 note right0002" x="453" y="1251" width="456" height="602"/>
+	<SubTexture name="xj9 note right0003" x="453" y="1251" width="456" height="602"/>
+	<SubTexture name="xj9 note right0004" x="453" y="1251" width="456" height="602"/>
+	<SubTexture name="xj9 note right0005" x="453" y="1251" width="456" height="602"/>
+	<SubTexture name="xj9 note right0006" x="453" y="1251" width="456" height="602"/>
+	<SubTexture name="xj9 note right0007" x="453" y="1251" width="456" height="602"/>
+	<SubTexture name="xj9 note right0008" x="453" y="1251" width="456" height="602"/>
+	<SubTexture name="xj9 note right0009" x="453" y="1251" width="456" height="602"/>
+	<SubTexture name="xj9 note right0010" x="453" y="1251" width="456" height="602"/>
+	<SubTexture name="xj9 note right0011" x="453" y="1251" width="456" height="602"/>
+	<SubTexture name="xj9 note right0012" x="453" y="1251" width="456" height="602"/>
+	<SubTexture name="xj9 note right0013" x="453" y="1251" width="456" height="602"/>
+	<SubTexture name="xj9 note up0000" x="909" y="1251" width="489" height="611"/>
+	<SubTexture name="xj9 note up0001" x="909" y="1251" width="489" height="611"/>
+	<SubTexture name="xj9 note up0002" x="1398" y="1251" width="486" height="609" frameX="-1" frameY="-2" frameWidth="489" frameHeight="611"/>
+	<SubTexture name="xj9 note up0003" x="1398" y="1251" width="486" height="609" frameX="-1" frameY="-2" frameWidth="489" frameHeight="611"/>
+	<SubTexture name="xj9 note up0004" x="1884" y="1251" width="486" height="609" frameX="-1" frameY="-2" frameWidth="489" frameHeight="611"/>
+	<SubTexture name="xj9 note up0005" x="1884" y="1251" width="486" height="609" frameX="-1" frameY="-2" frameWidth="489" frameHeight="611"/>
+	<SubTexture name="xj9 note up0006" x="2370" y="1251" width="486" height="609" frameX="-1" frameY="-2" frameWidth="489" frameHeight="611"/>
+	<SubTexture name="xj9 note up0007" x="2370" y="1251" width="486" height="609" frameX="-1" frameY="-2" frameWidth="489" frameHeight="611"/>
+	<SubTexture name="xj9 note up0008" x="2856" y="1251" width="486" height="609" frameX="-1" frameY="-2" frameWidth="489" frameHeight="611"/>
+	<SubTexture name="xj9 note up0009" x="2856" y="1251" width="486" height="609" frameX="-1" frameY="-2" frameWidth="489" frameHeight="611"/>
+	<SubTexture name="xj9 note up0010" x="3342" y="1251" width="486" height="609" frameX="-1" frameY="-2" frameWidth="489" frameHeight="611"/>
+	<SubTexture name="xj9 note up0011" x="3342" y="1251" width="486" height="609" frameX="-1" frameY="-2" frameWidth="489" frameHeight="611"/>
+	<SubTexture name="xj9 note up0012" x="1398" y="1251" width="486" height="609" frameX="-1" frameY="-2" frameWidth="489" frameHeight="611"/>
+	<SubTexture name="xj9 note up0013" x="1398" y="1251" width="486" height="609" frameX="-1" frameY="-2" frameWidth="489" frameHeight="611"/>
+</TextureAtlas>

@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-26,
+				-8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "MattLeft"
+		},
+		{
+			"offsets": [
+				-12,
+				42
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "MattUp"
+		},
+		{
+			"offsets": [
+				-62,
+				7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "MattRight"
+		},
+		{
+			"offsets": [
+				-32,
+				-78
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "MattDown"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "MattIdle"
+		},
+		{
+			"offsets": [
+				-56,
+				4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "MattHEY!!"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Matt Assets",
+	"position": [
+		0,
+		50
+	],
+	"healthicon": "matt-edd",
+	"flip_x": false,
+	"healthbar_colors": [
+		35,
+		180,
+		115
+	],
+	"camera_position": [
+		-90,
+		110
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

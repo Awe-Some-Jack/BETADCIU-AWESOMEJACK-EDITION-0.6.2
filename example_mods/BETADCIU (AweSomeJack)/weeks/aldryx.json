@@ -1,0 +1,26 @@
+{
+	"storyName": "",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "aldryx",
+	"startUnlocked": true,
+	"difficulties": "hard",
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"aldryx vs perry",
+			"aldryx",
+			[
+				186,
+				173,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "AGOTI"
+}

@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "???"
+		},
+		{
+			"offsets": [
+				10,
+				6
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "LEFT"
+		},
+		{
+			"offsets": [
+				10,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "DOWN"
+		},
+		{
+			"offsets": [
+				-22,
+				10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "UP"
+		},
+		{
+			"offsets": [
+				-30,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "RIGHT"
+		},
+		{
+			"offsets": [
+				0,
+				17
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "scream",
+			"loop": false,
+			"name": "Scream"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/LuacleScreamavi",
+	"position": [
+		10,
+		130
+	],
+	"healthicon": "luacle2",
+	"flip_x": false,
+	"healthbar_colors": [
+		135,
+		0,
+		155
+	],
+	"camera_position": [
+		-40,
+		-170
+	],
+	"sing_duration": 6.1,
+	"scale": 1.4
+}

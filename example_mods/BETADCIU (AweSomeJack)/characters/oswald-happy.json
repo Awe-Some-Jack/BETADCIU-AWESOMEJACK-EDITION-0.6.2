@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-218,
+				-47
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Os_Left instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-355,
+				-286
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Os_Down instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-264,
+				-16
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Os_Up instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-372,
+				-95
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Os_Right instance",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-252,
+				-58
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceLeft",
+			"indices": [],
+			"name": "Os_danceLeft instance"
+		},
+		{
+			"offsets": [
+				-259,
+				-60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceRight",
+			"indices": [],
+			"name": "Os_danceRight instance"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Oswald_Happy_Assetsv2",
+	"position": [
+		-70,
+		200
+	],
+	"healthicon": "oswald",
+	"flip_x": false,
+	"healthbar_colors": [
+		80,
+		135,
+		255
+	],
+	"camera_position": [
+		380,
+		210
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

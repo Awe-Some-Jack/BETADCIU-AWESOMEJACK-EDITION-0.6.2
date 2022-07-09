@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="newrd.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="newrddown0000" x="0" y="0" width="674" height="643"/>
+	<SubTexture name="newrddown0001" x="0" y="0" width="674" height="643"/>
+	<SubTexture name="newrddown0002" x="674" y="0" width="674" height="643"/>
+	<SubTexture name="newrddown0003" x="674" y="0" width="674" height="643"/>
+	<SubTexture name="newrddown0004" x="674" y="0" width="674" height="643"/>
+	<SubTexture name="newrdidle0000" x="1348" y="0" width="674" height="643"/>
+	<SubTexture name="newrdidle0001" x="1348" y="0" width="674" height="643"/>
+	<SubTexture name="newrdidle0002" x="2022" y="0" width="674" height="643"/>
+	<SubTexture name="newrdidle0003" x="2022" y="0" width="674" height="643"/>
+	<SubTexture name="newrdidle0004" x="2696" y="0" width="674" height="643"/>
+	<SubTexture name="newrdidle0005" x="2696" y="0" width="674" height="643"/>
+	<SubTexture name="newrdidle0006" x="3370" y="0" width="674" height="643"/>
+	<SubTexture name="newrdidle0007" x="3370" y="0" width="674" height="643"/>
+	<SubTexture name="newrdidle0008" x="0" y="643" width="674" height="643"/>
+	<SubTexture name="newrdidle0009" x="0" y="643" width="674" height="643"/>
+	<SubTexture name="newrdleft0000" x="674" y="643" width="674" height="643"/>
+	<SubTexture name="newrdleft0001" x="674" y="643" width="674" height="643"/>
+	<SubTexture name="newrdleft0002" x="1348" y="643" width="674" height="643"/>
+	<SubTexture name="newrdleft0003" x="1348" y="643" width="674" height="643"/>
+	<SubTexture name="newrdleft0004" x="1348" y="643" width="674" height="643"/>
+	<SubTexture name="newrdright0000" x="2022" y="643" width="674" height="643"/>
+	<SubTexture name="newrdright0001" x="2022" y="643" width="674" height="643"/>
+	<SubTexture name="newrdright0002" x="2696" y="643" width="674" height="643"/>
+	<SubTexture name="newrdright0003" x="2696" y="643" width="674" height="643"/>
+	<SubTexture name="newrdright0004" x="2696" y="643" width="674" height="643"/>
+	<SubTexture name="newrdup0000" x="3370" y="643" width="674" height="643"/>
+	<SubTexture name="newrdup0001" x="3370" y="643" width="674" height="643"/>
+	<SubTexture name="newrdup0002" x="0" y="1286" width="674" height="643"/>
+	<SubTexture name="newrdup0003" x="0" y="1286" width="674" height="643"/>
+	<SubTexture name="newrdup0004" x="0" y="1286" width="674" height="643"/>
+</TextureAtlas>

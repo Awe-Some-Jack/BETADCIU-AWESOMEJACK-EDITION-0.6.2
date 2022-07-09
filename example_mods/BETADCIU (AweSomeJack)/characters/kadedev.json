@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-260,
+				-60
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-259,
+				-28
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "sing up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-216,
+				-67
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "sing left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-262,
+				-85
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "sing down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-309,
+				-63
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "sing right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/kadedev",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "kadedev",
+	"flip_x": false,
+	"healthbar_colors": [
+		75,
+		100,
+		72
+	],
+	"camera_position": [
+		240,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

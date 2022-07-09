@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-30,
+				60
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "soul luacle IDLE"
+		},
+		{
+			"offsets": [
+				0,
+				62
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "soul luacle LEFT"
+		},
+		{
+			"offsets": [
+				-90,
+				10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "soul luacle DOWN"
+		},
+		{
+			"offsets": [
+				0,
+				60
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "soul luacle UP"
+		},
+		{
+			"offsets": [
+				-80,
+				50
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "soul luacle RIGHT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/luacle_Soul",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "luaclesoul",
+	"flip_x": false,
+	"healthbar_colors": [
+		1,
+		1,
+		1
+	],
+	"camera_position": [
+		20,
+		-240
+	],
+	"sing_duration": 6.1,
+	"scale": 1.4
+}

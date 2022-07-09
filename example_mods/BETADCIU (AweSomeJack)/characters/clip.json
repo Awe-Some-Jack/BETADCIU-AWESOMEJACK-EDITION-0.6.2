@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-117,
+				-191
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Clip Idle Dance"
+		},
+		{
+			"offsets": [
+				1,
+				-203
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Clip Note Right"
+		},
+		{
+			"offsets": [
+				-130,
+				-350
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Clip Note Down"
+		},
+		{
+			"offsets": [
+				-59,
+				-170
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Clip Up note"
+		},
+		{
+			"offsets": [
+				-131,
+				-192
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Clip Note Left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/clip_assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "clip",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		51,
+		204
+	],
+	"camera_position": [
+		90,
+		120
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

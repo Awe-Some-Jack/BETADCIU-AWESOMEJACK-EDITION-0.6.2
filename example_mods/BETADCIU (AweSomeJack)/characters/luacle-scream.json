@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-72,
+				-230
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Luria Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-9,
+				-230
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Luria Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-55,
+				-230
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Luria Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-147,
+				-226
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Luria UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-147,
+				-231
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "LuriaDown",
+			"indices": []
+		},
+		{
+			"offsets": [
+				30,
+				-239
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle-alt",
+			"loop": false,
+			"name": "???"
+		},
+		{
+			"offsets": [
+				60,
+				-236
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"loop": false,
+			"name": "LEFT"
+		},
+		{
+			"offsets": [
+				16,
+				-239
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"loop": false,
+			"name": "RIGHT"
+		},
+		{
+			"offsets": [
+				20,
+				-235
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP-alt",
+			"loop": false,
+			"name": "UP"
+		},
+		{
+			"offsets": [
+				22,
+				-238
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"loop": false,
+			"name": "DOWN"
+		},
+		{
+			"offsets": [
+				7,
+				-232
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "scream",
+			"loop": false,
+			"name": "Scream"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/luacle_scream_v2",
+	"position": [
+		110,
+		0
+	],
+	"healthicon": "luacle",
+	"flip_x": false,
+	"healthbar_colors": [
+		109,
+		3,
+		148
+	],
+	"camera_position": [
+		40,
+		150
+	],
+	"sing_duration": 6.1,
+	"scale": 1.7
+}

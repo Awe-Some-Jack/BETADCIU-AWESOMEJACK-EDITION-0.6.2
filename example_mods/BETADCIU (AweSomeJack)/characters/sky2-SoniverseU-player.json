@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "SKY MAD ID"
+		},
+		{
+			"offsets": [
+				1,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "SKY MAD DW"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "SKY MAD UP"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "SKY MAD LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "SKY MAD RIGHT",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/SKY MAD",
+	"position": [
+		-130,
+		160
+	],
+	"healthicon": "sky2",
+	"flip_x": false,
+	"healthbar_colors": [
+		156,
+		110,
+		204
+	],
+	"camera_position": [
+		80,
+		30
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

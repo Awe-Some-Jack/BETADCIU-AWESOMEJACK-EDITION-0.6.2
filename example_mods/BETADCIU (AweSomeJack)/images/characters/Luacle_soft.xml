@@ -1,0 +1,244 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Luacle_soft_fix.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Luria Dead0000" x="0" y="0" width="333" height="422"/>
+	<SubTexture name="Luria Dead0001" x="333" y="0" width="333" height="422"/>
+	<SubTexture name="Luria Dead0002" x="666" y="0" width="333" height="422"/>
+	<SubTexture name="Luria Dead0003" x="666" y="0" width="333" height="422"/>
+	<SubTexture name="Luria Dead0004" x="666" y="0" width="333" height="422"/>
+	<SubTexture name="Luria Dead0005" x="666" y="0" width="333" height="422"/>
+	<SubTexture name="Luria Dead0006" x="666" y="0" width="333" height="422"/>
+	<SubTexture name="Luria Dead0007" x="666" y="0" width="333" height="422"/>
+	<SubTexture name="Luria Dead0008" x="666" y="0" width="333" height="422"/>
+	<SubTexture name="Luria Dead0009" x="999" y="0" width="333" height="422"/>
+	<SubTexture name="Luria Dead0010" x="999" y="0" width="333" height="422"/>
+	<SubTexture name="Luria Dead0011" x="1332" y="0" width="333" height="422"/>
+	<SubTexture name="Luria Dead0012" x="1332" y="0" width="333" height="422"/>
+	<SubTexture name="Luria Dead0013" x="1665" y="0" width="333" height="422"/>
+	<SubTexture name="Luria Dead0014" x="1665" y="0" width="333" height="422"/>
+	<SubTexture name="Luria Dead0015" x="1998" y="0" width="333" height="422"/>
+	<SubTexture name="Luria Dead0016" x="1998" y="0" width="333" height="422"/>
+	<SubTexture name="Luria Dead0017" x="666" y="0" width="333" height="422"/>
+	<SubTexture name="Luria Dead0018" x="666" y="0" width="333" height="422"/>
+	<SubTexture name="Luria Dead0019" x="2331" y="0" width="0" height="0" frameX="-160" frameY="-204" frameWidth="333" frameHeight="422"/>
+	<SubTexture name="Luria Dead0020" x="2331" y="0" width="0" height="0" frameX="-160" frameY="-204" frameWidth="333" frameHeight="422"/>
+	<SubTexture name="Luria Dead0021" x="2331" y="0" width="80" height="7" frameX="-130" frameY="-204" frameWidth="333" frameHeight="422"/>
+	<SubTexture name="Luria Dead0022" x="2331" y="0" width="80" height="7" frameX="-130" frameY="-204" frameWidth="333" frameHeight="422"/>
+	<SubTexture name="Luria Dead0023" x="2411" y="0" width="80" height="16" frameX="-130" frameY="-200" frameWidth="333" frameHeight="422"/>
+	<SubTexture name="Luria Dead0024" x="2411" y="0" width="80" height="16" frameX="-130" frameY="-200" frameWidth="333" frameHeight="422"/>
+	<SubTexture name="Luria Dead0025" x="2491" y="0" width="80" height="27" frameX="-130" frameY="-194" frameWidth="333" frameHeight="422"/>
+	<SubTexture name="Luria Dead0026" x="2491" y="0" width="80" height="27" frameX="-130" frameY="-194" frameWidth="333" frameHeight="422"/>
+	<SubTexture name="Luria Dead0027" x="2571" y="0" width="80" height="61" frameX="-130" frameY="-177" frameWidth="333" frameHeight="422"/>
+	<SubTexture name="Luria Dead0028" x="2571" y="0" width="80" height="61" frameX="-130" frameY="-177" frameWidth="333" frameHeight="422"/>
+	<SubTexture name="Luria Dead0029" x="2651" y="0" width="80" height="37" frameX="-130" frameY="-189" frameWidth="333" frameHeight="422"/>
+	<SubTexture name="Luria Dead0030" x="2651" y="0" width="80" height="37" frameX="-130" frameY="-189" frameWidth="333" frameHeight="422"/>
+	<SubTexture name="Luria Dead0031" x="2651" y="0" width="80" height="37" frameX="-130" frameY="-189" frameWidth="333" frameHeight="422"/>
+	<SubTexture name="Luria Dead0032" x="2651" y="0" width="80" height="37" frameX="-130" frameY="-189" frameWidth="333" frameHeight="422"/>
+	<SubTexture name="Luria Dead0033" x="2651" y="0" width="80" height="37" frameX="-130" frameY="-189" frameWidth="333" frameHeight="422"/>
+	<SubTexture name="Luria Dead0034" x="2651" y="0" width="80" height="37" frameX="-130" frameY="-189" frameWidth="333" frameHeight="422"/>
+	<SubTexture name="Luria Dead0035" x="2651" y="0" width="80" height="37" frameX="-130" frameY="-189" frameWidth="333" frameHeight="422"/>
+	<SubTexture name="Luria Dead0036" x="2651" y="0" width="80" height="37" frameX="-130" frameY="-189" frameWidth="333" frameHeight="422"/>
+	<SubTexture name="Luria Dead0037" x="2651" y="0" width="80" height="37" frameX="-130" frameY="-189" frameWidth="333" frameHeight="422"/>
+	<SubTexture name="Luria Dead0038" x="2651" y="0" width="80" height="37" frameX="-130" frameY="-189" frameWidth="333" frameHeight="422"/>
+	<SubTexture name="Luria Dead0039" x="2651" y="0" width="80" height="37" frameX="-130" frameY="-189" frameWidth="333" frameHeight="422"/>
+	<SubTexture name="Luria Dead Config0000" x="2731" y="0" width="80" height="37"/>
+	<SubTexture name="Luria Dead Config0001" x="2731" y="0" width="80" height="37"/>
+	<SubTexture name="Luria Dead Config0002" x="2731" y="0" width="80" height="37"/>
+	<SubTexture name="Luria Dead Config0003" x="2731" y="0" width="80" height="37"/>
+	<SubTexture name="Luria Dead Config0004" x="2731" y="0" width="80" height="37"/>
+	<SubTexture name="Luria Dead Config0005" x="2731" y="0" width="80" height="37"/>
+	<SubTexture name="Luria Dead Config0006" x="2731" y="0" width="80" height="37"/>
+	<SubTexture name="Luria Dead Config0007" x="2731" y="0" width="80" height="37"/>
+	<SubTexture name="Luria Dead Config0008" x="2731" y="0" width="80" height="37"/>
+	<SubTexture name="Luria Dead LOOP0000" x="2651" y="0" width="80" height="37" frameX="0" frameY="0" frameWidth="333" frameHeight="422"/>
+	<SubTexture name="Luria Dead LOOP0001" x="2651" y="0" width="80" height="37" frameX="0" frameY="0" frameWidth="333" frameHeight="422"/>
+	<SubTexture name="Luria Dead LOOP0002" x="2651" y="0" width="80" height="37" frameX="0" frameY="0" frameWidth="333" frameHeight="422"/>
+	<SubTexture name="Luria Dead LOOP0003" x="2651" y="0" width="80" height="37" frameX="0" frameY="0" frameWidth="333" frameHeight="422"/>
+	<SubTexture name="Luria Dead LOOP0004" x="2651" y="0" width="80" height="37" frameX="0" frameY="0" frameWidth="333" frameHeight="422"/>
+	<SubTexture name="Luria Dead LOOP0005" x="2651" y="0" width="80" height="37" frameX="0" frameY="0" frameWidth="333" frameHeight="422"/>
+	<SubTexture name="Luria Dead LOOP0006" x="2651" y="0" width="80" height="37" frameX="0" frameY="0" frameWidth="333" frameHeight="422"/>
+	<SubTexture name="Luria Dead LOOP0007" x="2651" y="0" width="80" height="37" frameX="0" frameY="0" frameWidth="333" frameHeight="422"/>
+	<SubTexture name="Luria Dead LOOP0008" x="2651" y="0" width="80" height="37" frameX="0" frameY="0" frameWidth="333" frameHeight="422"/>
+	<SubTexture name="Luria Idle0000" x="2811" y="0" width="315" height="389" frameX="-3" frameY="-31" frameWidth="336" frameHeight="421"/>
+	<SubTexture name="Luria Idle0001" x="2811" y="0" width="315" height="389" frameX="-3" frameY="-31" frameWidth="336" frameHeight="421"/>
+	<SubTexture name="Luria Idle0002" x="3126" y="0" width="323" height="410" frameX="0" frameY="-10" frameWidth="336" frameHeight="421"/>
+	<SubTexture name="Luria Idle0003" x="3126" y="0" width="323" height="410" frameX="0" frameY="-10" frameWidth="336" frameHeight="421"/>
+	<SubTexture name="Luria Idle0004" x="3449" y="0" width="333" height="421" frameX="-3" frameY="0" frameWidth="336" frameHeight="421"/>
+	<SubTexture name="Luria Idle0005" x="3449" y="0" width="333" height="421" frameX="-3" frameY="0" frameWidth="336" frameHeight="421"/>
+	<SubTexture name="Luria Idle0006" x="3449" y="0" width="333" height="421" frameX="-3" frameY="0" frameWidth="336" frameHeight="421"/>
+	<SubTexture name="Luria Idle0007" x="3449" y="0" width="333" height="421" frameX="-3" frameY="0" frameWidth="336" frameHeight="421"/>
+	<SubTexture name="Luria Idle0008" x="3449" y="0" width="333" height="421" frameX="-3" frameY="0" frameWidth="336" frameHeight="421"/>
+	<SubTexture name="Luria Idle0009" x="3449" y="0" width="333" height="421" frameX="-3" frameY="0" frameWidth="336" frameHeight="421"/>
+	<SubTexture name="Luria Idle0010" x="3449" y="0" width="333" height="421" frameX="-3" frameY="0" frameWidth="336" frameHeight="421"/>
+	<SubTexture name="Luria Idle0011" x="3449" y="0" width="333" height="421" frameX="-3" frameY="0" frameWidth="336" frameHeight="421"/>
+	<SubTexture name="Luria Idle0012" x="3449" y="0" width="333" height="421" frameX="-3" frameY="0" frameWidth="336" frameHeight="421"/>
+	<SubTexture name="Luria Idle0013" x="3449" y="0" width="333" height="421" frameX="-3" frameY="0" frameWidth="336" frameHeight="421"/>
+	<SubTexture name="Luria Idle0014" x="3449" y="0" width="333" height="421" frameX="-3" frameY="0" frameWidth="336" frameHeight="421"/>
+	<SubTexture name="Luria Left0000" x="0" y="422" width="331" height="421"/>
+	<SubTexture name="Luria Left0001" x="0" y="422" width="331" height="421"/>
+	<SubTexture name="Luria Left0002" x="331" y="422" width="321" height="421" frameX="-8" frameY="0" frameWidth="331" frameHeight="421"/>
+	<SubTexture name="Luria Left0003" x="331" y="422" width="321" height="421" frameX="-8" frameY="0" frameWidth="331" frameHeight="421"/>
+	<SubTexture name="Luria Left0004" x="331" y="422" width="321" height="421" frameX="-8" frameY="0" frameWidth="331" frameHeight="421"/>
+	<SubTexture name="Luria Left0005" x="331" y="422" width="321" height="421" frameX="-8" frameY="0" frameWidth="331" frameHeight="421"/>
+	<SubTexture name="Luria Left0006" x="331" y="422" width="321" height="421" frameX="-8" frameY="0" frameWidth="331" frameHeight="421"/>
+	<SubTexture name="Luria Left0007" x="331" y="422" width="321" height="421" frameX="-8" frameY="0" frameWidth="331" frameHeight="421"/>
+	<SubTexture name="Luria Left0008" x="331" y="422" width="321" height="421" frameX="-8" frameY="0" frameWidth="331" frameHeight="421"/>
+	<SubTexture name="Luria Left0009" x="331" y="422" width="321" height="421" frameX="-8" frameY="0" frameWidth="331" frameHeight="421"/>
+	<SubTexture name="Luria Left0010" x="331" y="422" width="321" height="421" frameX="-8" frameY="0" frameWidth="331" frameHeight="421"/>
+	<SubTexture name="Luria Left0011" x="331" y="422" width="321" height="421" frameX="-8" frameY="0" frameWidth="331" frameHeight="421"/>
+	<SubTexture name="Luria Left0012" x="331" y="422" width="321" height="421" frameX="-8" frameY="0" frameWidth="331" frameHeight="421"/>
+	<SubTexture name="Luria Left0013" x="331" y="422" width="321" height="421" frameX="-8" frameY="0" frameWidth="331" frameHeight="421"/>
+	<SubTexture name="Luria Left0014" x="331" y="422" width="321" height="421" frameX="-8" frameY="0" frameWidth="331" frameHeight="421"/>
+	<SubTexture name="Luria Left Miss0000" x="0" y="422" width="331" height="421"/>
+	<SubTexture name="Luria Left Miss0001" x="652" y="422" width="321" height="418" frameX="-8" frameY="-3" frameWidth="331" frameHeight="421"/>
+	<SubTexture name="Luria Left Miss0002" x="652" y="422" width="321" height="418" frameX="-8" frameY="-3" frameWidth="331" frameHeight="421"/>
+	<SubTexture name="Luria Left Miss0003" x="652" y="422" width="321" height="418" frameX="-8" frameY="-3" frameWidth="331" frameHeight="421"/>
+	<SubTexture name="Luria Left Miss0004" x="652" y="422" width="321" height="418" frameX="-8" frameY="-3" frameWidth="331" frameHeight="421"/>
+	<SubTexture name="Luria Left Miss0005" x="652" y="422" width="321" height="418" frameX="-8" frameY="-3" frameWidth="331" frameHeight="421"/>
+	<SubTexture name="Luria Left Miss0006" x="652" y="422" width="321" height="418" frameX="-8" frameY="-3" frameWidth="331" frameHeight="421"/>
+	<SubTexture name="Luria Left Miss0007" x="652" y="422" width="321" height="418" frameX="-8" frameY="-3" frameWidth="331" frameHeight="421"/>
+	<SubTexture name="Luria Left Miss0008" x="652" y="422" width="321" height="418" frameX="-8" frameY="-3" frameWidth="331" frameHeight="421"/>
+	<SubTexture name="Luria Left Miss0009" x="652" y="422" width="321" height="418" frameX="-8" frameY="-3" frameWidth="331" frameHeight="421"/>
+	<SubTexture name="Luria Left Miss0010" x="652" y="422" width="321" height="418" frameX="-8" frameY="-3" frameWidth="331" frameHeight="421"/>
+	<SubTexture name="Luria Left Miss0011" x="652" y="422" width="321" height="418" frameX="-8" frameY="-3" frameWidth="331" frameHeight="421"/>
+	<SubTexture name="Luria Left Miss0012" x="652" y="422" width="321" height="418" frameX="-8" frameY="-3" frameWidth="331" frameHeight="421"/>
+	<SubTexture name="Luria Left Miss0013" x="652" y="422" width="321" height="418" frameX="-8" frameY="-3" frameWidth="331" frameHeight="421"/>
+	<SubTexture name="Luria Right0000" x="973" y="422" width="348" height="421" frameX="-6" frameY="0" frameWidth="354" frameHeight="421"/>
+	<SubTexture name="Luria Right0001" x="973" y="422" width="348" height="421" frameX="-6" frameY="0" frameWidth="354" frameHeight="421"/>
+	<SubTexture name="Luria Right0002" x="1321" y="422" width="328" height="421" frameX="0" frameY="0" frameWidth="354" frameHeight="421"/>
+	<SubTexture name="Luria Right0003" x="1321" y="422" width="328" height="421" frameX="0" frameY="0" frameWidth="354" frameHeight="421"/>
+	<SubTexture name="Luria Right0004" x="1321" y="422" width="328" height="421" frameX="0" frameY="0" frameWidth="354" frameHeight="421"/>
+	<SubTexture name="Luria Right0005" x="1321" y="422" width="328" height="421" frameX="0" frameY="0" frameWidth="354" frameHeight="421"/>
+	<SubTexture name="Luria Right0006" x="1321" y="422" width="328" height="421" frameX="0" frameY="0" frameWidth="354" frameHeight="421"/>
+	<SubTexture name="Luria Right0007" x="1321" y="422" width="328" height="421" frameX="0" frameY="0" frameWidth="354" frameHeight="421"/>
+	<SubTexture name="Luria Right0008" x="1321" y="422" width="328" height="421" frameX="0" frameY="0" frameWidth="354" frameHeight="421"/>
+	<SubTexture name="Luria Right0009" x="1321" y="422" width="328" height="421" frameX="0" frameY="0" frameWidth="354" frameHeight="421"/>
+	<SubTexture name="Luria Right0010" x="1321" y="422" width="328" height="421" frameX="0" frameY="0" frameWidth="354" frameHeight="421"/>
+	<SubTexture name="Luria Right0011" x="1321" y="422" width="328" height="421" frameX="0" frameY="0" frameWidth="354" frameHeight="421"/>
+	<SubTexture name="Luria Right0012" x="1321" y="422" width="328" height="421" frameX="0" frameY="0" frameWidth="354" frameHeight="421"/>
+	<SubTexture name="Luria Right0013" x="1321" y="422" width="328" height="421" frameX="0" frameY="0" frameWidth="354" frameHeight="421"/>
+	<SubTexture name="Luria Right0014" x="1321" y="422" width="328" height="421" frameX="0" frameY="0" frameWidth="354" frameHeight="421"/>
+	<SubTexture name="Luria Right Miss0000" x="973" y="422" width="348" height="421" frameX="-6" frameY="0" frameWidth="354" frameHeight="421"/>
+	<SubTexture name="Luria Right Miss0001" x="1649" y="422" width="328" height="418" frameX="0" frameY="-3" frameWidth="354" frameHeight="421"/>
+	<SubTexture name="Luria Right Miss0002" x="1649" y="422" width="328" height="418" frameX="0" frameY="-3" frameWidth="354" frameHeight="421"/>
+	<SubTexture name="Luria Right Miss0003" x="1649" y="422" width="328" height="418" frameX="0" frameY="-3" frameWidth="354" frameHeight="421"/>
+	<SubTexture name="Luria Right Miss0004" x="1649" y="422" width="328" height="418" frameX="0" frameY="-3" frameWidth="354" frameHeight="421"/>
+	<SubTexture name="Luria Right Miss0005" x="1649" y="422" width="328" height="418" frameX="0" frameY="-3" frameWidth="354" frameHeight="421"/>
+	<SubTexture name="Luria Right Miss0006" x="1649" y="422" width="328" height="418" frameX="0" frameY="-3" frameWidth="354" frameHeight="421"/>
+	<SubTexture name="Luria Right Miss0007" x="1649" y="422" width="328" height="418" frameX="0" frameY="-3" frameWidth="354" frameHeight="421"/>
+	<SubTexture name="Luria Right Miss0008" x="1649" y="422" width="328" height="418" frameX="0" frameY="-3" frameWidth="354" frameHeight="421"/>
+	<SubTexture name="Luria Right Miss0009" x="1649" y="422" width="328" height="418" frameX="0" frameY="-3" frameWidth="354" frameHeight="421"/>
+	<SubTexture name="Luria Right Miss0010" x="1649" y="422" width="328" height="418" frameX="0" frameY="-3" frameWidth="354" frameHeight="421"/>
+	<SubTexture name="Luria Right Miss0011" x="1649" y="422" width="328" height="418" frameX="0" frameY="-3" frameWidth="354" frameHeight="421"/>
+	<SubTexture name="Luria Right Miss0012" x="1649" y="422" width="328" height="418" frameX="0" frameY="-3" frameWidth="354" frameHeight="421"/>
+	<SubTexture name="Luria Right Miss0013" x="1649" y="422" width="328" height="418" frameX="0" frameY="-3" frameWidth="354" frameHeight="421"/>
+	<SubTexture name="Luria UP0000" x="1977" y="422" width="289" height="425" frameX="0" frameY="0" frameWidth="301" frameHeight="425"/>
+	<SubTexture name="Luria UP0001" x="1977" y="422" width="289" height="425" frameX="0" frameY="0" frameWidth="301" frameHeight="425"/>
+	<SubTexture name="Luria UP0002" x="2266" y="422" width="301" height="422" frameX="0" frameY="-3" frameWidth="301" frameHeight="425"/>
+	<SubTexture name="Luria UP0003" x="2266" y="422" width="301" height="422" frameX="0" frameY="-3" frameWidth="301" frameHeight="425"/>
+	<SubTexture name="Luria UP0004" x="2266" y="422" width="301" height="422" frameX="0" frameY="-3" frameWidth="301" frameHeight="425"/>
+	<SubTexture name="Luria UP0005" x="2266" y="422" width="301" height="422" frameX="0" frameY="-3" frameWidth="301" frameHeight="425"/>
+	<SubTexture name="Luria UP0006" x="2266" y="422" width="301" height="422" frameX="0" frameY="-3" frameWidth="301" frameHeight="425"/>
+	<SubTexture name="Luria UP0007" x="2266" y="422" width="301" height="422" frameX="0" frameY="-3" frameWidth="301" frameHeight="425"/>
+	<SubTexture name="Luria UP0008" x="2266" y="422" width="301" height="422" frameX="0" frameY="-3" frameWidth="301" frameHeight="425"/>
+	<SubTexture name="Luria UP0009" x="2266" y="422" width="301" height="422" frameX="0" frameY="-3" frameWidth="301" frameHeight="425"/>
+	<SubTexture name="Luria UP0010" x="2266" y="422" width="301" height="422" frameX="0" frameY="-3" frameWidth="301" frameHeight="425"/>
+	<SubTexture name="Luria UP0011" x="2266" y="422" width="301" height="422" frameX="0" frameY="-3" frameWidth="301" frameHeight="425"/>
+	<SubTexture name="Luria UP0012" x="2266" y="422" width="301" height="422" frameX="0" frameY="-3" frameWidth="301" frameHeight="425"/>
+	<SubTexture name="Luria UP0013" x="2266" y="422" width="301" height="422" frameX="0" frameY="-3" frameWidth="301" frameHeight="425"/>
+	<SubTexture name="Luria UP0014" x="2266" y="422" width="301" height="422" frameX="0" frameY="-3" frameWidth="301" frameHeight="425"/>
+	<SubTexture name="Luria UP Miss0000" x="1977" y="422" width="289" height="425" frameX="0" frameY="0" frameWidth="301" frameHeight="425"/>
+	<SubTexture name="Luria UP Miss0001" x="2567" y="422" width="301" height="423" frameX="0" frameY="-2" frameWidth="301" frameHeight="425"/>
+	<SubTexture name="Luria UP Miss0002" x="2567" y="422" width="301" height="423" frameX="0" frameY="-2" frameWidth="301" frameHeight="425"/>
+	<SubTexture name="Luria UP Miss0003" x="2567" y="422" width="301" height="423" frameX="0" frameY="-2" frameWidth="301" frameHeight="425"/>
+	<SubTexture name="Luria UP Miss0004" x="2567" y="422" width="301" height="423" frameX="0" frameY="-2" frameWidth="301" frameHeight="425"/>
+	<SubTexture name="Luria UP Miss0005" x="2567" y="422" width="301" height="423" frameX="0" frameY="-2" frameWidth="301" frameHeight="425"/>
+	<SubTexture name="Luria UP Miss0006" x="2567" y="422" width="301" height="423" frameX="0" frameY="-2" frameWidth="301" frameHeight="425"/>
+	<SubTexture name="Luria UP Miss0007" x="2567" y="422" width="301" height="423" frameX="0" frameY="-2" frameWidth="301" frameHeight="425"/>
+	<SubTexture name="Luria UP Miss0008" x="2567" y="422" width="301" height="423" frameX="0" frameY="-2" frameWidth="301" frameHeight="425"/>
+	<SubTexture name="Luria UP Miss0009" x="2567" y="422" width="301" height="423" frameX="0" frameY="-2" frameWidth="301" frameHeight="425"/>
+	<SubTexture name="Luria UP Miss0010" x="2567" y="422" width="301" height="423" frameX="0" frameY="-2" frameWidth="301" frameHeight="425"/>
+	<SubTexture name="Luria UP Miss0011" x="2567" y="422" width="301" height="423" frameX="0" frameY="-2" frameWidth="301" frameHeight="425"/>
+	<SubTexture name="Luria UP Miss0012" x="2567" y="422" width="301" height="423" frameX="0" frameY="-2" frameWidth="301" frameHeight="425"/>
+	<SubTexture name="Luria UP Miss0013" x="2567" y="422" width="301" height="423" frameX="0" frameY="-2" frameWidth="301" frameHeight="425"/>
+	<SubTexture name="LuriaDown0000" x="2868" y="422" width="274" height="403" frameX="0" frameY="-17" frameWidth="274" frameHeight="422"/>
+	<SubTexture name="LuriaDown0001" x="2868" y="422" width="274" height="403" frameX="0" frameY="-17" frameWidth="274" frameHeight="422"/>
+	<SubTexture name="LuriaDown0002" x="3142" y="422" width="274" height="422"/>
+	<SubTexture name="LuriaDown0003" x="3142" y="422" width="274" height="422"/>
+	<SubTexture name="LuriaDown0004" x="3142" y="422" width="274" height="422"/>
+	<SubTexture name="LuriaDown0005" x="3142" y="422" width="274" height="422"/>
+	<SubTexture name="LuriaDown0006" x="3142" y="422" width="274" height="422"/>
+	<SubTexture name="LuriaDown0007" x="3142" y="422" width="274" height="422"/>
+	<SubTexture name="LuriaDown0008" x="3142" y="422" width="274" height="422"/>
+	<SubTexture name="LuriaDown0009" x="3142" y="422" width="274" height="422"/>
+	<SubTexture name="LuriaDown0010" x="3142" y="422" width="274" height="422"/>
+	<SubTexture name="LuriaDown0011" x="3142" y="422" width="274" height="422"/>
+	<SubTexture name="LuriaDown0012" x="3142" y="422" width="274" height="422"/>
+	<SubTexture name="LuriaDown0013" x="3142" y="422" width="274" height="422"/>
+	<SubTexture name="LuriaDown0014" x="3142" y="422" width="274" height="422"/>
+	<SubTexture name="LuriaDown Miss0000" x="2868" y="422" width="274" height="403" frameX="0" frameY="-13" frameWidth="274" frameHeight="422"/>
+	<SubTexture name="LuriaDown Miss0001" x="3416" y="422" width="274" height="418"/>
+	<SubTexture name="LuriaDown Miss0002" x="3416" y="422" width="274" height="418"/>
+	<SubTexture name="LuriaDown Miss0003" x="3416" y="422" width="274" height="418"/>
+	<SubTexture name="LuriaDown Miss0004" x="3416" y="422" width="274" height="418"/>
+	<SubTexture name="LuriaDown Miss0005" x="3416" y="422" width="274" height="418"/>
+	<SubTexture name="LuriaDown Miss0006" x="3416" y="422" width="274" height="418"/>
+	<SubTexture name="LuriaDown Miss0007" x="3416" y="422" width="274" height="418"/>
+	<SubTexture name="LuriaDown Miss0008" x="3416" y="422" width="274" height="418"/>
+	<SubTexture name="LuriaDown Miss0009" x="3416" y="422" width="274" height="418"/>
+	<SubTexture name="LuriaDown Miss0010" x="3416" y="422" width="274" height="418"/>
+	<SubTexture name="LuriaDown Miss0011" x="3416" y="422" width="274" height="418"/>
+	<SubTexture name="LuriaDown Miss0012" x="3416" y="422" width="274" height="418"/>
+	<SubTexture name="LuriaDown Miss0013" x="3416" y="422" width="274" height="418"/>
+	<SubTexture name="Scream0000" x="3690" y="422" width="308" height="427"/>
+	<SubTexture name="Scream0001" x="3690" y="422" width="308" height="427"/>
+	<SubTexture name="Scream0002" x="0" y="849" width="291" height="427" frameX="-3" frameY="0" frameWidth="308" frameHeight="427"/>
+	<SubTexture name="Scream0003" x="0" y="849" width="291" height="427" frameX="-3" frameY="0" frameWidth="308" frameHeight="427"/>
+	<SubTexture name="Scream0004" x="0" y="849" width="291" height="427" frameX="-3" frameY="0" frameWidth="308" frameHeight="427"/>
+	<SubTexture name="Scream0005" x="0" y="849" width="291" height="427" frameX="-3" frameY="0" frameWidth="308" frameHeight="427"/>
+	<SubTexture name="Scream0006" x="0" y="849" width="291" height="427" frameX="-3" frameY="0" frameWidth="308" frameHeight="427"/>
+	<SubTexture name="Scream0007" x="0" y="849" width="291" height="427" frameX="-3" frameY="0" frameWidth="308" frameHeight="427"/>
+	<SubTexture name="Scream0008" x="0" y="849" width="291" height="427" frameX="-3" frameY="0" frameWidth="308" frameHeight="427"/>
+	<SubTexture name="Scream0009" x="0" y="849" width="291" height="427" frameX="-3" frameY="0" frameWidth="308" frameHeight="427"/>
+	<SubTexture name="Scream0010" x="0" y="849" width="291" height="427" frameX="-3" frameY="0" frameWidth="308" frameHeight="427"/>
+	<SubTexture name="Scream0011" x="0" y="849" width="291" height="427" frameX="-3" frameY="0" frameWidth="308" frameHeight="427"/>
+	<SubTexture name="Scream0012" x="0" y="849" width="291" height="427" frameX="-3" frameY="0" frameWidth="308" frameHeight="427"/>
+	<SubTexture name="Scream0013" x="0" y="849" width="291" height="427" frameX="-3" frameY="0" frameWidth="308" frameHeight="427"/>
+	<SubTexture name="Scream0014" x="0" y="849" width="291" height="427" frameX="-3" frameY="0" frameWidth="308" frameHeight="427"/>
+	<SubTexture name="Scream0015" x="0" y="849" width="291" height="427" frameX="-3" frameY="0" frameWidth="308" frameHeight="427"/>
+	<SubTexture name="Scream0016" x="0" y="849" width="291" height="427" frameX="-3" frameY="0" frameWidth="308" frameHeight="427"/>
+	<SubTexture name="Scream0017" x="0" y="849" width="291" height="427" frameX="-3" frameY="0" frameWidth="308" frameHeight="427"/>
+	<SubTexture name="Scream0018" x="0" y="849" width="291" height="427" frameX="-3" frameY="0" frameWidth="308" frameHeight="427"/>
+	<SubTexture name="Scream0019" x="0" y="849" width="291" height="427" frameX="-3" frameY="0" frameWidth="308" frameHeight="427"/>
+	<SubTexture name="Scream0020" x="0" y="849" width="291" height="427" frameX="-3" frameY="0" frameWidth="308" frameHeight="427"/>
+	<SubTexture name="Scream0021" x="0" y="849" width="291" height="427" frameX="-3" frameY="0" frameWidth="308" frameHeight="427"/>
+	<SubTexture name="Scream0022" x="0" y="849" width="291" height="427" frameX="-3" frameY="0" frameWidth="308" frameHeight="427"/>
+	<SubTexture name="Scream0023" x="0" y="849" width="291" height="427" frameX="-3" frameY="0" frameWidth="308" frameHeight="427"/>
+	<SubTexture name="Scream0024" x="0" y="849" width="291" height="427" frameX="-3" frameY="0" frameWidth="308" frameHeight="427"/>
+	<SubTexture name="Scream0025" x="0" y="849" width="291" height="427" frameX="-3" frameY="0" frameWidth="308" frameHeight="427"/>
+	<SubTexture name="Scream0026" x="0" y="849" width="291" height="427" frameX="-3" frameY="0" frameWidth="308" frameHeight="427"/>
+	<SubTexture name="Scream0027" x="0" y="849" width="291" height="427" frameX="-3" frameY="0" frameWidth="308" frameHeight="427"/>
+	<SubTexture name="Scream0028" x="0" y="849" width="291" height="427" frameX="-3" frameY="0" frameWidth="308" frameHeight="427"/>
+	<SubTexture name="Scream0029" x="0" y="849" width="291" height="427" frameX="-3" frameY="0" frameWidth="308" frameHeight="427"/>
+	<SubTexture name="Scream0030" x="0" y="849" width="291" height="427" frameX="-3" frameY="0" frameWidth="308" frameHeight="427"/>
+	<SubTexture name="Scream0031" x="0" y="849" width="291" height="427" frameX="-3" frameY="0" frameWidth="308" frameHeight="427"/>
+	<SubTexture name="Scream0032" x="0" y="849" width="291" height="427" frameX="-3" frameY="0" frameWidth="308" frameHeight="427"/>
+	<SubTexture name="Scream0033" x="0" y="849" width="291" height="427" frameX="-3" frameY="0" frameWidth="308" frameHeight="427"/>
+	<SubTexture name="Scream0034" x="0" y="849" width="291" height="427" frameX="-3" frameY="0" frameWidth="308" frameHeight="427"/>
+	<SubTexture name="Scream0035" x="0" y="849" width="291" height="427" frameX="-3" frameY="0" frameWidth="308" frameHeight="427"/>
+	<SubTexture name="Scream0036" x="0" y="849" width="291" height="427" frameX="-3" frameY="0" frameWidth="308" frameHeight="427"/>
+	<SubTexture name="Scream0037" x="0" y="849" width="291" height="427" frameX="-3" frameY="0" frameWidth="308" frameHeight="427"/>
+	<SubTexture name="Scream0038" x="0" y="849" width="291" height="427" frameX="-3" frameY="0" frameWidth="308" frameHeight="427"/>
+	<SubTexture name="Scream0039" x="0" y="849" width="291" height="427" frameX="-3" frameY="0" frameWidth="308" frameHeight="427"/>
+	<SubTexture name="Scream0040" x="0" y="849" width="291" height="427" frameX="-3" frameY="0" frameWidth="308" frameHeight="427"/>
+	<SubTexture name="Scream0041" x="0" y="849" width="291" height="427" frameX="-3" frameY="0" frameWidth="308" frameHeight="427"/>
+	<SubTexture name="Scream0042" x="0" y="849" width="291" height="427" frameX="-3" frameY="0" frameWidth="308" frameHeight="427"/>
+	<SubTexture name="Scream0043" x="0" y="849" width="291" height="427" frameX="-3" frameY="0" frameWidth="308" frameHeight="427"/>
+	<SubTexture name="Scream0044" x="0" y="849" width="291" height="427" frameX="-3" frameY="0" frameWidth="308" frameHeight="427"/>
+	<SubTexture name="Scream0045" x="0" y="849" width="291" height="427" frameX="-3" frameY="0" frameWidth="308" frameHeight="427"/>
+	<SubTexture name="Scream0046" x="0" y="849" width="291" height="427" frameX="-3" frameY="0" frameWidth="308" frameHeight="427"/>
+	<SubTexture name="Scream0047" x="0" y="849" width="291" height="427" frameX="-3" frameY="0" frameWidth="308" frameHeight="427"/>
+	<SubTexture name="Scream0048" x="0" y="849" width="291" height="427" frameX="-3" frameY="0" frameWidth="308" frameHeight="427"/>
+	<SubTexture name="Scream0049" x="0" y="849" width="291" height="427" frameX="-3" frameY="0" frameWidth="308" frameHeight="427"/>
+</TextureAtlas>

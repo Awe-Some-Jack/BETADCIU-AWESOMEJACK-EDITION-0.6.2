@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-65,
+				83
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Quartal LEFT"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				83
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Quartal DOWN"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-7,
+				83
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Quartal UP"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				24,
+				83
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Quartal RIGHT"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-17,
+				83
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Quartal idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/quartal",
+	"position": [
+		-10,
+		40
+	],
+	"healthicon": "quartal",
+	"flip_x": false,
+	"healthbar_colors": [
+		88,
+		160,
+		255
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

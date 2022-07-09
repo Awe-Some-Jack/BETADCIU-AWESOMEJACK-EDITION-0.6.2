@@ -1,0 +1,234 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "clipcity",
+		"player1": "bf",
+		"player2": "clip",
+		"player3": null,
+		"events": [
+			[
+				8727.27272727273,
+				[
+					[
+						"Change Character",
+						"dad",
+						"taeyai"
+					]
+				]
+			],
+			[
+				13090.9090909091,
+				[
+					[
+						"Change Character",
+						"bf",
+						"8owser"
+					],
+					[
+						"Change Character",
+						"gf",
+						"gfandbf"
+					]
+				]
+			],
+			[
+				17454.5454545455,
+				[
+					[
+						"Change Character",
+						"dad",
+						"nonsense"
+					]
+				]
+			],
+			[
+				21818.1818181818,
+				[
+					[
+						"Change Character",
+						"dad",
+						"matt"
+					],
+					[
+						"Change Character",
+						"bf",
+						"shaggy-player"
+					]
+				]
+			],
+			[
+				26181.8181818182,
+				[
+					[
+						"Change Character",
+						"dad",
+						"tankman"
+					]
+				]
+			],
+			[
+				28363.6363636364,
+				[
+					[
+						"Change Character",
+						"bf",
+						"pico-player"
+					]
+				]
+			],
+			[
+				30545.4545454546,
+				[
+					[
+						"Change Character",
+						"dad",
+						"cj"
+					]
+				]
+			],
+			[
+				32727.2727272727,
+				[
+					[
+						"Change Character",
+						"bf",
+						"ruby-player"
+					]
+				]
+			],
+			[
+				34909.0909090909,
+				[
+					[
+						"Change Character",
+						"dad",
+						"neonight"
+					]
+				]
+			],
+			[
+				37090.9090909091,
+				[
+					[
+						"Change Character",
+						"bf",
+						"sharv"
+					]
+				]
+			],
+			[
+				39272.7272727273,
+				[
+					[
+						"Change Character",
+						"dad",
+						"sunday"
+					]
+				]
+			],
+			[
+				41454.5454545455,
+				[
+					[
+						"Change Character",
+						"bf",
+						"carol-player"
+					]
+				]
+			],
+			[
+				43636.3636363637,
+				[
+					[
+						"Change Character",
+						"dad",
+						"whitty"
+					]
+				]
+			],
+			[
+				52363.6363636364,
+				[
+					[
+						"Change Character",
+						"bf",
+						"updike-player"
+					]
+				]
+			],
+			[
+				61090.9090909091,
+				[
+					[
+						"Change Character",
+						"dad",
+						"blantad"
+					]
+				]
+			],
+			[
+				65454.5454545455,
+				[
+					[
+						"Change Character",
+						"bf",
+						"agoti-player"
+					]
+				]
+			],
+			[
+				69818.1818181819,
+				[
+					[
+						"Change Character",
+						"dad",
+						"arch"
+					]
+				]
+			],
+			[
+				74181.8181818182,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bbpanzu"
+					]
+				]
+			],
+			[
+				78545.4545454546,
+				[
+					[
+						"Change Character",
+						"dad",
+						"jenny"
+					]
+				]
+			],
+			[
+				82909.0909090909,
+				[
+					[
+						"Change Character",
+						"dad",
+						"ace"
+					],
+					[
+						"Change Character",
+						"bf",
+						"retro-player"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 110,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Ray"
+	}
+}

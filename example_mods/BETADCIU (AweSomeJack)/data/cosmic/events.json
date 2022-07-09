@@ -1,0 +1,249 @@
+{
+	"song": {
+		"speed": 2.5,
+		"stage": "koustage",
+		"player1": "bf",
+		"player2": "kou",
+		"player3": null,
+		"events": [
+			[
+				9600,
+				[
+					[
+						"Change Character",
+						"dad",
+						"Girlfriend"
+					],
+					[
+						"Change Character",
+						"gf",
+						"nogf"
+					]
+				]
+			],
+			[
+				12800,
+				[
+					[
+						"Change Character",
+						"bf",
+						"spooky-player"
+					]
+				]
+			],
+			[
+				19200,
+				[
+					[
+						"Change Character",
+						"dad",
+						"kadedev"
+					],
+					[
+						"Change Character",
+						"gf",
+						"gf"
+					]
+				]
+			],
+			[
+				22400,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bigbro-player"
+					]
+				]
+			],
+			[
+				25600,
+				[
+					[
+						"Change Character",
+						"dad",
+						"Taeyai"
+					]
+				]
+			],
+			[
+				35200,
+				[
+					[
+						"Change Character",
+						"bf",
+						"baldi-player"
+					]
+				]
+			],
+			[
+				41600,
+				[
+					[
+						"Change Character",
+						"dad",
+						"luacle"
+					]
+				]
+			],
+			[
+				48000,
+				[
+					[
+						"Change Character",
+						"bf",
+						"whitty-player"
+					]
+				]
+			],
+			[
+				54400,
+				[
+					[
+						"Change Character",
+						"dad",
+						"sunday"
+					],
+					[
+						"Change Character",
+						"bf",
+						"carol-player"
+					]
+				]
+			],
+			[
+				60800,
+				[
+					[
+						"Change Character",
+						"bf",
+						"sonic"
+					],
+					[
+						"Change Character",
+						"dad",
+						"mario"
+					]
+				]
+			],
+			[
+				67200,
+				[
+					[
+						"Change Character",
+						"dad",
+						"cg5"
+					]
+				]
+			],
+			[
+				71200,
+				[
+					[
+						"Change Character",
+						"dad",
+						"neonight"
+					]
+				]
+			],
+			[
+				73600,
+				[
+					[
+						"Change Character",
+						"bf",
+						"tord"
+					]
+				]
+			],
+			[
+				77600,
+				[
+					[
+						"Change Character",
+						"bf",
+						"sharv"
+					]
+				]
+			],
+			[
+				80000,
+				[
+					[
+						"Change Character",
+						"dad",
+						"oswald-happy"
+					]
+				]
+			],
+			[
+				86400,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bbpanzu"
+					]
+				]
+			],
+			[
+				92800,
+				[
+					[
+						"Change Character",
+						"dad",
+						"neon"
+					]
+				]
+			],
+			[
+				99200,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bob-player"
+					]
+				]
+			],
+			[
+				105600,
+				[
+					[
+						"Change Character",
+						"dad",
+						"tankman"
+					],
+					[
+						"Change Character",
+						"bf",
+						"2vplus-senpai-player"
+					]
+				]
+			],
+			[
+				112000,
+				[
+					[
+						"Change Character",
+						"bf",
+						"neopico"
+					],
+					[
+						"Change Character",
+						"dad",
+						"void"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 150,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Cosmic"
+	}
+}

@@ -1,0 +1,116 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": [
+				30,
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				17,
+				-2
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				-28
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				43
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-56,
+				-4
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-31,
+				5
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "peace",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-14,
+				7
+			],
+			"anim": "laugh",
+			"fps": 24,
+			"name": "ha",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/fyzure",
+	"position": [
+		-290,
+		-230
+	],
+	"healthicon": "fyzure",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		34,
+		255
+	],
+	"camera_position": [
+		140,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

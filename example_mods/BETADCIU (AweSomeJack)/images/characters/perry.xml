@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="perry.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="perry down0000" x="0" y="0" width="509" height="604" pivotX="54.8" pivotY="165.25" frameX="0" frameY="0" frameWidth="521" frameHeight="604"/>
+	<SubTexture name="perry down0001" x="509" y="0" width="517" height="601" frameX="-2" frameY="-2" frameWidth="521" frameHeight="604"/>
+	<SubTexture name="perry down0002" x="1026" y="0" width="517" height="593" frameX="-4" frameY="-10" frameWidth="521" frameHeight="604"/>
+	<SubTexture name="perry down0003" x="1026" y="0" width="517" height="593" frameX="-4" frameY="-10" frameWidth="521" frameHeight="604"/>
+	<SubTexture name="perry down0004" x="1026" y="0" width="517" height="593" frameX="-4" frameY="-10" frameWidth="521" frameHeight="604"/>
+	<SubTexture name="perry down0005" x="1026" y="0" width="517" height="593" frameX="-4" frameY="-10" frameWidth="521" frameHeight="604"/>
+	<SubTexture name="perry down0006" x="1026" y="0" width="517" height="593" frameX="-4" frameY="-10" frameWidth="521" frameHeight="604"/>
+	<SubTexture name="perry hey0000" x="1543" y="0" width="467" height="690" pivotX="81.7" pivotY="169.9" frameX="-18" frameY="-20" frameWidth="485" frameHeight="710"/>
+	<SubTexture name="perry hey0001" x="2010" y="0" width="471" height="702" frameX="-9" frameY="-8" frameWidth="485" frameHeight="710"/>
+	<SubTexture name="perry hey0002" x="2481" y="0" width="481" height="710" frameX="0" frameY="0" frameWidth="485" frameHeight="710"/>
+	<SubTexture name="perry hey0003" x="2481" y="0" width="481" height="710" frameX="0" frameY="0" frameWidth="485" frameHeight="710"/>
+	<SubTexture name="perry hey0004" x="2481" y="0" width="481" height="710" frameX="0" frameY="0" frameWidth="485" frameHeight="710"/>
+	<SubTexture name="perry hey0005" x="2481" y="0" width="481" height="710" frameX="0" frameY="0" frameWidth="485" frameHeight="710"/>
+	<SubTexture name="perry hey0006" x="2481" y="0" width="481" height="710" frameX="0" frameY="0" frameWidth="485" frameHeight="710"/>
+	<SubTexture name="perry hey0007" x="2481" y="0" width="481" height="710" frameX="0" frameY="0" frameWidth="485" frameHeight="710"/>
+	<SubTexture name="perry idle0000" x="2962" y="0" width="476" height="691" pivotX="65.6" pivotY="158.9" frameX="-1" frameY="-7" frameWidth="477" frameHeight="699"/>
+	<SubTexture name="perry idle0001" x="3438" y="0" width="476" height="693" frameX="-1" frameY="-5" frameWidth="477" frameHeight="699"/>
+	<SubTexture name="perry idle0002" x="0" y="710" width="476" height="697" frameX="0" frameY="-1" frameWidth="477" frameHeight="699"/>
+	<SubTexture name="perry idle0003" x="476" y="710" width="476" height="698" frameX="0" frameY="0" frameWidth="477" frameHeight="699"/>
+	<SubTexture name="perry idle0004" x="952" y="710" width="466" height="694" frameX="0" frameY="-5" frameWidth="477" frameHeight="699"/>
+	<SubTexture name="perry idle0005" x="1418" y="710" width="466" height="695" frameX="0" frameY="-4" frameWidth="477" frameHeight="699"/>
+	<SubTexture name="perry idle0006" x="1884" y="710" width="455" height="690" frameX="-2" frameY="-9" frameWidth="477" frameHeight="699"/>
+	<SubTexture name="perry idle0007" x="1884" y="710" width="455" height="690" frameX="-2" frameY="-9" frameWidth="477" frameHeight="699"/>
+	<SubTexture name="perry left0000" x="2339" y="710" width="454" height="688" pivotX="85" pivotY="147.95" frameX="-13" frameY="0" frameWidth="471" frameHeight="688"/>
+	<SubTexture name="perry left0001" x="2793" y="710" width="467" height="688" frameX="-4" frameY="0" frameWidth="471" frameHeight="688"/>
+	<SubTexture name="perry left0002" x="3260" y="710" width="469" height="688" frameX="0" frameY="0" frameWidth="471" frameHeight="688"/>
+	<SubTexture name="perry left0003" x="3260" y="710" width="469" height="688" frameX="0" frameY="0" frameWidth="471" frameHeight="688"/>
+	<SubTexture name="perry left0004" x="3260" y="710" width="469" height="688" frameX="0" frameY="0" frameWidth="471" frameHeight="688"/>
+	<SubTexture name="perry left0005" x="3260" y="710" width="469" height="688" frameX="0" frameY="0" frameWidth="471" frameHeight="688"/>
+	<SubTexture name="perry left0006" x="3260" y="710" width="469" height="688" frameX="0" frameY="0" frameWidth="471" frameHeight="688"/>
+	<SubTexture name="perry left0007" x="3260" y="710" width="469" height="688" frameX="0" frameY="0" frameWidth="471" frameHeight="688"/>
+	<SubTexture name="perry right0000" x="0" y="1408" width="474" height="693" pivotX="62.9" pivotY="142.5" frameX="-8" frameY="0" frameWidth="490" frameHeight="693"/>
+	<SubTexture name="perry right0001" x="474" y="1408" width="480" height="693" frameX="-6" frameY="0" frameWidth="490" frameHeight="693"/>
+	<SubTexture name="perry right0002" x="954" y="1408" width="490" height="693"/>
+	<SubTexture name="perry right0003" x="954" y="1408" width="490" height="693"/>
+	<SubTexture name="perry right0004" x="954" y="1408" width="490" height="693"/>
+	<SubTexture name="perry right0005" x="954" y="1408" width="490" height="693"/>
+	<SubTexture name="perry right0006" x="954" y="1408" width="490" height="693"/>
+	<SubTexture name="perry right0007" x="954" y="1408" width="490" height="693"/>
+	<SubTexture name="perry up0000" x="1444" y="1408" width="478" height="683" pivotX="78.7" pivotY="176.15" frameX="-2" frameY="-8" frameWidth="480" frameHeight="691"/>
+	<SubTexture name="perry up0001" x="1922" y="1408" width="478" height="688" frameX="-1" frameY="-3" frameWidth="480" frameHeight="691"/>
+	<SubTexture name="perry up0002" x="2400" y="1408" width="478" height="691" frameX="0" frameY="0" frameWidth="480" frameHeight="691"/>
+	<SubTexture name="perry up0003" x="2400" y="1408" width="478" height="691" frameX="0" frameY="0" frameWidth="480" frameHeight="691"/>
+	<SubTexture name="perry up0004" x="2400" y="1408" width="478" height="691" frameX="0" frameY="0" frameWidth="480" frameHeight="691"/>
+	<SubTexture name="perry up0005" x="2400" y="1408" width="478" height="691" frameX="0" frameY="0" frameWidth="480" frameHeight="691"/>
+	<SubTexture name="perry up0006" x="2400" y="1408" width="478" height="691" frameX="0" frameY="0" frameWidth="480" frameHeight="691"/>
+	<SubTexture name="perry up0007" x="2400" y="1408" width="478" height="691" frameX="0" frameY="0" frameWidth="480" frameHeight="691"/>
+</TextureAtlas>

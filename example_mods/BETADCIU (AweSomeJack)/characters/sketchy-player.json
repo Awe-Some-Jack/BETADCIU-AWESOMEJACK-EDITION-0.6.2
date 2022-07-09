@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				220,
+				-194
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "sketchy down"
+		},
+		{
+			"offsets": [
+				203,
+				-30
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "sketchy up"
+		},
+		{
+			"offsets": [
+				140,
+				-180
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "sketchy left"
+		},
+		{
+			"offsets": [
+				240,
+				-210
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "sketchy right"
+		},
+		{
+			"offsets": [
+				160,
+				-130
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "sketchy idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sketchy_assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "sketchy",
+	"flip_x": false,
+	"healthbar_colors": [
+		247,
+		247,
+		247
+	],
+	"camera_position": [
+		320,
+		110
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

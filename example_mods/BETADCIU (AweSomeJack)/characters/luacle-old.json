@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Luria Idle"
+		},
+		{
+			"offsets": [
+				132,
+				-26
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Luria Left"
+		},
+		{
+			"offsets": [
+				50,
+				-25
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "LuriaDown"
+		},
+		{
+			"offsets": [
+				-48,
+				-25
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Luria Right"
+		},
+		{
+			"offsets": [
+				9,
+				27
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Luria UP"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Luacle-old",
+	"position": [
+		90,
+		120
+	],
+	"healthicon": "luacle-old",
+	"flip_x": false,
+	"healthbar_colors": [
+		109,
+		3,
+		148
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1
+}

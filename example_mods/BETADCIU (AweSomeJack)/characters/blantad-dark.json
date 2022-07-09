@@ -1,0 +1,103 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-90,
+				-30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				105,
+				-29
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				-10,
+				-178
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				-20,
+				47
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-94,
+				-121
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				112,
+				392
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "scream",
+			"indices": [],
+			"name": "scream"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				112,
+				392
+			],
+			"anim": "scream-loop",
+			"fps": 24,
+			"name": "scream",
+			"indices": [
+				10,
+				11
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BlantadosDark",
+	"position": [
+		20,
+		10
+	],
+	"healthicon": "blantad_dark",
+	"flip_x": false,
+	"healthbar_colors": [
+		20,
+		39,
+		229
+	],
+	"camera_position": [
+		110,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

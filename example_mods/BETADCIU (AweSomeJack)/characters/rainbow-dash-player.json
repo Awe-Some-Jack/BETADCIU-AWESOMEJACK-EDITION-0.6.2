@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "newrdidle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "newrddown"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "newrdup"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "newrdright",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "newrdleft",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/newrd",
+	"position": [
+		-130,
+		150
+	],
+	"healthicon": "rd",
+	"flip_x": false,
+	"healthbar_colors": [
+		29,
+		152,
+		212
+	],
+	"camera_position": [
+		200,
+		110
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

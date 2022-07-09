@@ -1,0 +1,44 @@
+{
+	"song": {
+		"speed": 2.4,
+		"stage": "oldhouse",
+		"player1": "sky1-SoniverseU-player",
+		"player2": "sky_annoyed",
+		"player3": null,
+		"events": [
+			[
+				40948.9051094891,
+				[
+					[
+						"Play Animation",
+						"angry",
+						"dad"
+					],
+					[
+						"Play Sound",
+						"sky_hmph",
+						"1"
+					]
+				]
+			],
+			[
+				42043.795620438,
+				[
+					[
+						"Alt Idle Animation",
+						"dad",
+						"-alt"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf_mad",
+		"bpm": 137,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Paradox"
+	}
+}

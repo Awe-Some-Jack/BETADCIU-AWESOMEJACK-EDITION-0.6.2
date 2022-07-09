@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Luacle God.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="God Luacle0000" x="0" y="0" width="621" height="625" frameX="0" frameY="-5" frameWidth="621" frameHeight="641"/>
+	<SubTexture name="God Luacle0001" x="621" y="0" width="621" height="625" frameX="0" frameY="-5" frameWidth="621" frameHeight="641"/>
+	<SubTexture name="God Luacle0002" x="1242" y="0" width="621" height="625" frameX="0" frameY="-5" frameWidth="621" frameHeight="641"/>
+	<SubTexture name="God Luacle0003" x="1863" y="0" width="621" height="625" frameX="0" frameY="-5" frameWidth="621" frameHeight="641"/>
+	<SubTexture name="God Luacle0004" x="2484" y="0" width="611" height="640" frameX="-1" frameY="0" frameWidth="621" frameHeight="641"/>
+	<SubTexture name="God Luacle0005" x="3095" y="0" width="611" height="640" frameX="-1" frameY="0" frameWidth="621" frameHeight="641"/>
+	<SubTexture name="God Luacle0006" x="3706" y="0" width="604" height="634" frameX="-15" frameY="-6" frameWidth="621" frameHeight="641"/>
+	<SubTexture name="God Luacle0007" x="4310" y="0" width="604" height="634" frameX="-15" frameY="-6" frameWidth="621" frameHeight="641"/>
+	<SubTexture name="God Luacle0008" x="4914" y="0" width="602" height="636" frameX="0" frameY="-5" frameWidth="621" frameHeight="641"/>
+	<SubTexture name="God Luacle0009" x="5516" y="0" width="602" height="636" frameX="0" frameY="-5" frameWidth="621" frameHeight="641"/>
+	<SubTexture name="God Luacle0010" x="6118" y="0" width="602" height="617" frameX="0" frameY="-5" frameWidth="621" frameHeight="641"/>
+	<SubTexture name="God Luacle0011" x="6720" y="0" width="602" height="617" frameX="0" frameY="-5" frameWidth="621" frameHeight="641"/>
+	<SubTexture name="God Luacle0012" x="7322" y="0" width="602" height="620" frameX="0" frameY="-5" frameWidth="621" frameHeight="641"/>
+	<SubTexture name="God Luacle0013" x="0" y="640" width="602" height="620" frameX="0" frameY="-5" frameWidth="621" frameHeight="641"/>
+	<SubTexture name="God Luacle0014" x="602" y="640" width="602" height="620" frameX="0" frameY="-5" frameWidth="621" frameHeight="641"/>
+	<SubTexture name="God Luacle0015" x="1204" y="640" width="602" height="620" frameX="0" frameY="-5" frameWidth="621" frameHeight="641"/>
+	<SubTexture name="God Luacle0016" x="1806" y="640" width="602" height="620" frameX="0" frameY="-5" frameWidth="621" frameHeight="641"/>
+	<SubTexture name="God Luacle0017" x="2408" y="640" width="602" height="620" frameX="0" frameY="-5" frameWidth="621" frameHeight="641"/>
+	<SubTexture name="God Luacle0018" x="3010" y="640" width="602" height="620" frameX="0" frameY="-5" frameWidth="621" frameHeight="641"/>
+	<SubTexture name="God Luacle Down0000" x="3612" y="640" width="552" height="619" frameX="0" frameY="-4" frameWidth="571" frameHeight="623"/>
+	<SubTexture name="God Luacle Down0001" x="4164" y="640" width="552" height="619" frameX="0" frameY="-4" frameWidth="571" frameHeight="623"/>
+	<SubTexture name="God Luacle Down0002" x="4716" y="640" width="571" height="623"/>
+	<SubTexture name="God Luacle Down0003" x="5287" y="640" width="571" height="623"/>
+	<SubTexture name="God Luacle Down0004" x="4716" y="640" width="571" height="623"/>
+	<SubTexture name="God Luacle Down0005" x="5287" y="640" width="571" height="623"/>
+	<SubTexture name="God Luacle Down0006" x="5858" y="640" width="571" height="623"/>
+	<SubTexture name="God Luacle Down0007" x="6429" y="640" width="571" height="623"/>
+	<SubTexture name="God Luacle Down0008" x="7000" y="640" width="571" height="623"/>
+	<SubTexture name="God Luacle Down0009" x="7571" y="640" width="571" height="623"/>
+	<SubTexture name="God Luacle Down0010" x="0" y="1263" width="571" height="623"/>
+	<SubTexture name="God Luacle Left0000" x="571" y="1263" width="543" height="584"/>
+	<SubTexture name="God Luacle Left0001" x="1114" y="1263" width="543" height="584"/>
+	<SubTexture name="God Luacle Left0002" x="1657" y="1263" width="524" height="583" frameX="-19" frameY="-1" frameWidth="543" frameHeight="584"/>
+	<SubTexture name="God Luacle Left0003" x="2181" y="1263" width="524" height="583" frameX="-19" frameY="-1" frameWidth="543" frameHeight="584"/>
+	<SubTexture name="God Luacle Left0004" x="1657" y="1263" width="524" height="583" frameX="-19" frameY="-1" frameWidth="543" frameHeight="584"/>
+	<SubTexture name="God Luacle Left0005" x="2181" y="1263" width="524" height="583" frameX="-19" frameY="-1" frameWidth="543" frameHeight="584"/>
+	<SubTexture name="God Luacle Left0006" x="2705" y="1263" width="524" height="583" frameX="-19" frameY="-1" frameWidth="543" frameHeight="584"/>
+	<SubTexture name="God Luacle Left0007" x="3229" y="1263" width="524" height="583" frameX="-19" frameY="-1" frameWidth="543" frameHeight="584"/>
+	<SubTexture name="God Luacle Left0008" x="3753" y="1263" width="524" height="583" frameX="-19" frameY="-1" frameWidth="543" frameHeight="584"/>
+	<SubTexture name="God Luacle Left0009" x="4277" y="1263" width="524" height="583" frameX="-19" frameY="-1" frameWidth="543" frameHeight="584"/>
+	<SubTexture name="God Luacle Left0010" x="4801" y="1263" width="524" height="583" frameX="-19" frameY="-1" frameWidth="543" frameHeight="584"/>
+	<SubTexture name="God Luacle Right0000" x="5325" y="1263" width="579" height="635" frameX="0" frameY="-1" frameWidth="589" frameHeight="640"/>
+	<SubTexture name="God Luacle Right0001" x="5904" y="1263" width="579" height="635" frameX="0" frameY="-1" frameWidth="589" frameHeight="640"/>
+	<SubTexture name="God Luacle Right0002" x="6483" y="1263" width="571" height="640" frameX="-18" frameY="0" frameWidth="589" frameHeight="640"/>
+	<SubTexture name="God Luacle Right0003" x="7054" y="1263" width="571" height="640" frameX="-18" frameY="0" frameWidth="589" frameHeight="640"/>
+	<SubTexture name="God Luacle Right0004" x="6483" y="1263" width="571" height="640" frameX="-18" frameY="0" frameWidth="589" frameHeight="640"/>
+	<SubTexture name="God Luacle Right0005" x="7054" y="1263" width="571" height="640" frameX="-18" frameY="0" frameWidth="589" frameHeight="640"/>
+	<SubTexture name="God Luacle Right0006" x="0" y="1903" width="571" height="640" frameX="-18" frameY="0" frameWidth="589" frameHeight="640"/>
+	<SubTexture name="God Luacle Right0007" x="571" y="1903" width="571" height="640" frameX="-18" frameY="0" frameWidth="589" frameHeight="640"/>
+	<SubTexture name="God Luacle Right0008" x="1142" y="1903" width="571" height="640" frameX="-18" frameY="0" frameWidth="589" frameHeight="640"/>
+	<SubTexture name="God Luacle Right0009" x="1713" y="1903" width="571" height="640" frameX="-18" frameY="0" frameWidth="589" frameHeight="640"/>
+	<SubTexture name="God Luacle Right0010" x="2284" y="1903" width="571" height="640" frameX="-18" frameY="0" frameWidth="589" frameHeight="640"/>
+	<SubTexture name="God Luacle UP0000" x="2855" y="1903" width="382" height="630" frameX="-11" frameY="0" frameWidth="398" frameHeight="630"/>
+	<SubTexture name="God Luacle UP0001" x="2855" y="1903" width="382" height="630" frameX="-11" frameY="0" frameWidth="398" frameHeight="630"/>
+	<SubTexture name="God Luacle UP0002" x="3237" y="1903" width="398" height="629" frameX="0" frameY="-1" frameWidth="398" frameHeight="630"/>
+	<SubTexture name="God Luacle UP0003" x="3237" y="1903" width="398" height="629" frameX="0" frameY="-1" frameWidth="398" frameHeight="630"/>
+	<SubTexture name="God Luacle UP0004" x="3237" y="1903" width="398" height="629" frameX="0" frameY="-1" frameWidth="398" frameHeight="630"/>
+	<SubTexture name="God Luacle UP0005" x="3237" y="1903" width="398" height="629" frameX="0" frameY="-1" frameWidth="398" frameHeight="630"/>
+	<SubTexture name="God Luacle UP0006" x="3237" y="1903" width="398" height="629" frameX="0" frameY="-1" frameWidth="398" frameHeight="630"/>
+	<SubTexture name="God Luacle UP0007" x="3237" y="1903" width="398" height="629" frameX="0" frameY="-1" frameWidth="398" frameHeight="630"/>
+	<SubTexture name="God Luacle UP0008" x="3237" y="1903" width="398" height="629" frameX="0" frameY="-1" frameWidth="398" frameHeight="630"/>
+	<SubTexture name="God Luacle UP0009" x="3237" y="1903" width="398" height="629" frameX="0" frameY="-1" frameWidth="398" frameHeight="630"/>
+	<SubTexture name="God Luacle UP0010" x="3237" y="1903" width="398" height="629" frameX="0" frameY="-1" frameWidth="398" frameHeight="630"/>
+</TextureAtlas>

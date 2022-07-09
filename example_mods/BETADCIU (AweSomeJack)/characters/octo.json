@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Doc idle"
+		},
+		{
+			"offsets": [
+				-29,
+				23
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Doc note left"
+		},
+		{
+			"offsets": [
+				-65,
+				-21
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Doc down note"
+		},
+		{
+			"offsets": [
+				-10,
+				94
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Doc up note"
+		},
+		{
+			"offsets": [
+				-50,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Doc right note"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/doc_assets",
+	"position": [
+		60,
+		330
+	],
+	"healthicon": "octo",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		102,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

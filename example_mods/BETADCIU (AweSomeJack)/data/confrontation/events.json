@@ -1,0 +1,576 @@
+{
+	"song": {
+		"events": [
+			[
+				19200,
+				[
+					[
+						"Change Character",
+						"dad",
+						"spong"
+					]
+				]
+			],
+			[
+				25600,
+				[
+					[
+						"Change Character",
+						"bf",
+						"Kung Fu Man-player"
+					]
+				]
+			],
+			[
+				32000,
+				[
+					[
+						"Change Character",
+						"dad",
+						"sky-annoyed"
+					],
+					[
+						"Alt Idle Animation",
+						"dad",
+						"-alt"
+					]
+				]
+			],
+			[
+				38400,
+				[
+					[
+						"Change Character",
+						"bf",
+						"ski-player"
+					]
+				]
+			],
+			[
+				44000,
+				[
+					[
+						"Play Animation",
+						"ugh",
+						"dad"
+					]
+				]
+			],
+			[
+				44800,
+				[
+					[
+						"Change Character",
+						"dad",
+						"mad-stand"
+					]
+				]
+			],
+			[
+				51200,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bookey"
+					]
+				]
+			],
+			[
+				57600,
+				[
+					[
+						"Change Character",
+						"dad",
+						"gold"
+					]
+				]
+			],
+			[
+				64000,
+				[
+					[
+						"Change Character",
+						"bf",
+						"rainbow-dash-player"
+					]
+				]
+			],
+			[
+				70400,
+				[
+					[
+						"Change Character",
+						"bf",
+						"perry-smlie-player"
+					],
+					[
+						"Change Character",
+						"dad",
+						"luacle"
+					]
+				]
+			],
+			[
+				76000,
+				[
+					[
+						"Change Character",
+						"dad",
+						"luacle-scream"
+					],
+					[
+						"Play Animation",
+						"scream",
+						"dad"
+					],
+					[
+						"Screen Shake",
+						"0.1",
+						"0.3"
+					]
+				]
+			],
+			[
+				76800,
+				[
+					[
+						"Change Character",
+						"dad",
+						"carol"
+					],
+					[
+						"Change Character",
+						"bf",
+						"sunday-player"
+					]
+				]
+			],
+			[
+				81600,
+				[
+					[
+						"Screen Shake",
+						"1.5,0.10",
+						"1.5,0.10"
+					]
+				]
+			],
+			[
+				83200,
+				[
+					[
+						"Change Character",
+						"dad",
+						"knuckles"
+					],
+					[
+						"Change Character",
+						"bf",
+						"spooky-player"
+					]
+				]
+			],
+			[
+				96000,
+				[
+					[
+						"Change Character",
+						"dad",
+						"sticky-oppone"
+					]
+				]
+			],
+			[
+				102400,
+				[
+					[
+						"Change Character",
+						"bf",
+						"lila-player"
+					]
+				]
+			],
+			[
+				108800,
+				[
+					[
+						"Change Character",
+						"dad",
+						"jenny"
+					]
+				]
+			],
+			[
+				115200,
+				[
+					[
+						"Change Character",
+						"bf",
+						"8owser"
+					]
+				]
+			],
+			[
+				121600,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bbpanzu"
+					],
+					[
+						"Change Character",
+						"dad",
+						"arch"
+					]
+				]
+			],
+			[
+				163200,
+				[
+					[
+						"Change Character",
+						"bf",
+						"sharv"
+					],
+					[
+						"Change Character",
+						"dad",
+						"fyzure"
+					]
+				]
+			],
+			[
+				176000,
+				[
+					[
+						"Change Character",
+						"dad",
+						"pico"
+					],
+					[
+						"Change Character",
+						"bf",
+						"nene-player"
+					]
+				]
+			],
+			[
+				182400,
+				[
+					[
+						"Change Character",
+						"bf",
+						"nonsense-player"
+					],
+					[
+						"Change Character",
+						"dad",
+						"taeyai"
+					]
+				]
+			],
+			[
+				188800,
+				[
+					[
+						"Change Character",
+						"dad",
+						"blantad"
+					]
+				]
+			],
+			[
+				195200,
+				[
+					[
+						"Change Character",
+						"bf",
+						"henry-player"
+					]
+				]
+			],
+			[
+				208000,
+				[
+					[
+						"Change Character",
+						"dad",
+						"tails"
+					]
+				]
+			],
+			[
+				252800,
+				[
+					[
+						"Change Character",
+						"dad",
+						"tails"
+					]
+				]
+			],
+			[
+				259200,
+				[
+					[
+						"Change Character",
+						"dad",
+						"tails"
+					]
+				]
+			],
+			[
+				265600,
+				[
+					[
+						"Add Camera Zoom",
+						"0.1",
+						""
+					]
+				]
+			],
+			[
+				266000,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						""
+					]
+				]
+			],
+			[
+				266400,
+				[
+					[
+						"Add Camera Zoom",
+						"0.1",
+						""
+					]
+				]
+			],
+			[
+				266800,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						""
+					]
+				]
+			],
+			[
+				267200,
+				[
+					[
+						"Add Camera Zoom",
+						"0.1",
+						""
+					]
+				]
+			],
+			[
+				267600,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						""
+					]
+				]
+			],
+			[
+				268000,
+				[
+					[
+						"Add Camera Zoom",
+						"0.1",
+						""
+					]
+				]
+			],
+			[
+				268400,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						""
+					]
+				]
+			],
+			[
+				268800,
+				[
+					[
+						"Add Camera Zoom",
+						"0.1",
+						""
+					]
+				]
+			],
+			[
+				269200,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						""
+					]
+				]
+			],
+			[
+				269600,
+				[
+					[
+						"Add Camera Zoom",
+						"0.1",
+						""
+					]
+				]
+			],
+			[
+				270200,
+				[
+					[
+						"Add Camera Zoom",
+						"0.1",
+						""
+					]
+				]
+			],
+			[
+				272000,
+				[
+					[
+						"Add Camera Zoom",
+						"0.1",
+						""
+					]
+				]
+			],
+			[
+				272400,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						""
+					]
+				]
+			],
+			[
+				272800,
+				[
+					[
+						"Add Camera Zoom",
+						"0.1",
+						""
+					]
+				]
+			],
+			[
+				273200,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						""
+					]
+				]
+			],
+			[
+				273600,
+				[
+					[
+						"Add Camera Zoom",
+						"0.1",
+						""
+					]
+				]
+			],
+			[
+				274000,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						""
+					]
+				]
+			],
+			[
+				274400,
+				[
+					[
+						"Add Camera Zoom",
+						"0.1",
+						""
+					]
+				]
+			],
+			[
+				274800,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						""
+					]
+				]
+			],
+			[
+				275200,
+				[
+					[
+						"Add Camera Zoom",
+						"0.1",
+						""
+					]
+				]
+			],
+			[
+				275600,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						""
+					]
+				]
+			],
+			[
+				276000,
+				[
+					[
+						"Add Camera Zoom",
+						"0.1",
+						""
+					]
+				]
+			],
+			[
+				276600,
+				[
+					[
+						"Add Camera Zoom",
+						"0.1",
+						""
+					]
+				]
+			],
+			[
+				278400,
+				[
+					[
+						"Add Camera Zoom",
+						"0.010",
+						""
+					]
+				]
+			]
+		]
+	}
+}

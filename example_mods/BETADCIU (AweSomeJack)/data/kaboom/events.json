@@ -1,0 +1,286 @@
+{
+	"song": {
+		"events": [
+			[
+				11812.5,
+				[
+					[
+						"Change Character",
+						"dad",
+						"Girlfriend"
+					]
+				]
+			],
+			[
+				14812.5,
+				[
+					[
+						"Change Character",
+						"bf",
+						"shaggy-player"
+					]
+				]
+			],
+			[
+				17812.5,
+				[
+					[
+						"Change Character",
+						"dad",
+						"matt"
+					]
+				]
+			],
+			[
+				20812.5,
+				[
+					[
+						"Change Character",
+						"bf",
+						"tord"
+					]
+				]
+			],
+			[
+				24000,
+				[
+					[
+						"Change Character",
+						"bf",
+						"sunday-player"
+					],
+					[
+						"Change Character",
+						"dad",
+						"luacle"
+					]
+				]
+			],
+			[
+				30000,
+				[
+					[
+						"Change Character",
+						"dad",
+						"carol"
+					],
+					[
+						"Change Character",
+						"bf",
+						"whitty-player"
+					]
+				]
+			],
+			[
+				36000,
+				[
+					[
+						"Change Character",
+						"bf",
+						"retro-player"
+					],
+					[
+						"Change Character",
+						"dad",
+						"neon"
+					]
+				]
+			],
+			[
+				42000,
+				[
+					[
+						"Change Character",
+						"dad",
+						"cheeky"
+					],
+					[
+						"Change Character",
+						"bf",
+						"nonsense-player"
+					]
+				]
+			],
+			[
+				48187.5,
+				[
+					[
+						"Change Character",
+						"dad",
+						"cg"
+					]
+				]
+			],
+			[
+				60187.5,
+				[
+					[
+						"Change Character",
+						"bf",
+						"sketchy-player"
+					]
+				]
+			],
+			[
+				72000,
+				[
+					[
+						"Change Character",
+						"dad",
+						"neonight"
+					]
+				]
+			],
+			[
+				72187.5,
+				[
+					[
+						"Change Character",
+						"bf",
+						"sharv"
+					]
+				]
+			],
+			[
+				84000,
+				[
+					[
+						"Change Character",
+						"bf",
+						"henry-player"
+					]
+				]
+			],
+			[
+				84187.5,
+				[
+					[
+						"Change Character",
+						"dad",
+						"blantad"
+					]
+				]
+			],
+			[
+				96000,
+				[
+					[
+						"Change Character",
+						"dad",
+						"taeyai"
+					],
+					[
+						"Change Character",
+						"bf",
+						"annie-player"
+					]
+				]
+			],
+			[
+				102000,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bob-player"
+					],
+					[
+						"Change Character",
+						"dad",
+						"sky"
+					]
+				]
+			],
+			[
+				108000,
+				[
+					[
+						"Change Character",
+						"dad",
+						"cg5"
+					],
+					[
+						"Change Character",
+						"bf",
+						"sonic"
+					]
+				]
+			],
+			[
+				114000,
+				[
+					[
+						"Change Character",
+						"bf",
+						"gold-player"
+					],
+					[
+						"Change Character",
+						"dad",
+						"bigbro"
+					]
+				]
+			],
+			[
+				120000,
+				[
+					[
+						"Change Character",
+						"dad",
+						"momi"
+					],
+					[
+						"Change Character",
+						"bf",
+						"bookey"
+					]
+				]
+			],
+			[
+				126000,
+				[
+					[
+						"Change Character",
+						"dad",
+						"arch"
+					],
+					[
+						"Change Character",
+						"bf",
+						"bbpanzu"
+					]
+				]
+			],
+			[
+				132000,
+				[
+					[
+						"Change Character",
+						"bf",
+						"robo"
+					],
+					[
+						"Change Character",
+						"dad",
+						"Kung Fu Man"
+					]
+				]
+			],
+			[
+				138000,
+				[
+					[
+						"Change Character",
+						"dad",
+						"mad-stand"
+					],
+					[
+						"Change Character",
+						"bf",
+						"lila-player"
+					]
+				]
+			]
+		]
+	}
+}

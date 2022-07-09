@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				10,
+				-160
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Steve Idle Dance"
+		},
+		{
+			"offsets": [
+				80,
+				-300
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Steve Down Note"
+		},
+		{
+			"offsets": [
+				100,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Steve Up Note"
+		},
+		{
+			"offsets": [
+				110,
+				-220
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Steve Left Note"
+		},
+		{
+			"offsets": [
+				20,
+				-200
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Steve Right Note"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Steve_assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "steve",
+	"flip_x": false,
+	"healthbar_colors": [
+		145,
+		39,
+		29
+	],
+	"camera_position": [
+		190,
+		160
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

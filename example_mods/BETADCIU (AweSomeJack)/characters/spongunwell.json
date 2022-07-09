@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				10,
+				-399
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "spooky dance idle"
+		},
+		{
+			"offsets": [
+				14,
+				-371
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "spooky UP NOTE"
+		},
+		{
+			"offsets": [
+				27,
+				-445
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "spooky DOWN note"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				31,
+				-401
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "spooky sing right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				48,
+				-404
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "note sing left",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/spongunwell",
+	"position": [
+		210,
+		0
+	],
+	"healthicon": "spongunwell",
+	"flip_x": false,
+	"healthbar_colors": [
+		153,
+		153,
+		153
+	],
+	"camera_position": [
+		20,
+		460
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

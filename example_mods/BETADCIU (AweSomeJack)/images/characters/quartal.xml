@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="quartal.png">
+<SubTexture name="Quartal idle0000" x="0" y="0" width="804" height="854" frameX="0" frameY="0" frameWidth="804" frameHeight="854" />
+<SubTexture name="Quartal idle0001" x="0" y="0" width="804" height="854" frameX="0" frameY="0" frameWidth="804" frameHeight="854" />
+<SubTexture name="Quartal idle0002" x="804" y="0" width="804" height="854" frameX="0" frameY="0" frameWidth="804" frameHeight="854" />
+<SubTexture name="Quartal idle0003" x="804" y="0" width="804" height="854" frameX="0" frameY="0" frameWidth="804" frameHeight="854" />
+<SubTexture name="Quartal idle0004" x="1608" y="0" width="804" height="854" frameX="0" frameY="0" frameWidth="804" frameHeight="854" />
+<SubTexture name="Quartal idle0005" x="1608" y="0" width="804" height="854" frameX="0" frameY="0" frameWidth="804" frameHeight="854" />
+<SubTexture name="Quartal idle0006" x="2412" y="0" width="804" height="854" frameX="0" frameY="0" frameWidth="804" frameHeight="854" />
+<SubTexture name="Quartal idle0007" x="2412" y="0" width="804" height="854" frameX="0" frameY="0" frameWidth="804" frameHeight="854" />
+<SubTexture name="Quartal idle0008" x="0" y="854" width="804" height="854" frameX="0" frameY="0" frameWidth="804" frameHeight="854" />
+<SubTexture name="Quartal idle0009" x="0" y="854" width="804" height="854" frameX="0" frameY="0" frameWidth="804" frameHeight="854" />
+<SubTexture name="Quartal LEFT0000" x="804" y="854" width="804" height="854" frameX="0" frameY="0" frameWidth="804" frameHeight="854" />
+<SubTexture name="Quartal LEFT0001" x="804" y="854" width="804" height="854" frameX="0" frameY="0" frameWidth="804" frameHeight="854" />
+<SubTexture name="Quartal LEFT0002" x="1608" y="854" width="804" height="854" frameX="0" frameY="0" frameWidth="804" frameHeight="854" />
+<SubTexture name="Quartal LEFT0003" x="1608" y="854" width="804" height="854" frameX="0" frameY="0" frameWidth="804" frameHeight="854" />
+<SubTexture name="Quartal LEFT0004" x="2412" y="854" width="804" height="854" frameX="0" frameY="0" frameWidth="804" frameHeight="854" />
+<SubTexture name="Quartal LEFT0005" x="2412" y="854" width="804" height="854" frameX="0" frameY="0" frameWidth="804" frameHeight="854" />
+<SubTexture name="Quartal DOWN0000" x="0" y="1708" width="804" height="854" frameX="0" frameY="0" frameWidth="804" frameHeight="854" />
+<SubTexture name="Quartal DOWN0001" x="0" y="1708" width="804" height="854" frameX="0" frameY="0" frameWidth="804" frameHeight="854" />
+<SubTexture name="Quartal DOWN0002" x="804" y="1708" width="804" height="854" frameX="0" frameY="0" frameWidth="804" frameHeight="854" />
+<SubTexture name="Quartal DOWN0003" x="804" y="1708" width="804" height="854" frameX="0" frameY="0" frameWidth="804" frameHeight="854" />
+<SubTexture name="Quartal DOWN0004" x="1608" y="1708" width="804" height="854" frameX="0" frameY="0" frameWidth="804" frameHeight="854" />
+<SubTexture name="Quartal DOWN0005" x="1608" y="1708" width="804" height="854" frameX="0" frameY="0" frameWidth="804" frameHeight="854" />
+<SubTexture name="Quartal UP0000" x="2412" y="1708" width="804" height="854" frameX="0" frameY="0" frameWidth="804" frameHeight="854" />
+<SubTexture name="Quartal UP0001" x="2412" y="1708" width="804" height="854" frameX="0" frameY="0" frameWidth="804" frameHeight="854" />
+<SubTexture name="Quartal UP0002" x="0" y="2562" width="804" height="854" frameX="0" frameY="0" frameWidth="804" frameHeight="854" />
+<SubTexture name="Quartal UP0003" x="0" y="2562" width="804" height="854" frameX="0" frameY="0" frameWidth="804" frameHeight="854" />
+<SubTexture name="Quartal UP0004" x="804" y="2562" width="804" height="854" frameX="0" frameY="0" frameWidth="804" frameHeight="854" />
+<SubTexture name="Quartal UP0005" x="804" y="2562" width="804" height="854" frameX="0" frameY="0" frameWidth="804" frameHeight="854" />
+<SubTexture name="Quartal RIGHT0000" x="1608" y="2562" width="804" height="854" frameX="0" frameY="0" frameWidth="804" frameHeight="854" />
+<SubTexture name="Quartal RIGHT0001" x="1608" y="2562" width="804" height="854" frameX="0" frameY="0" frameWidth="804" frameHeight="854" />
+<SubTexture name="Quartal RIGHT0002" x="2412" y="2562" width="804" height="854" frameX="0" frameY="0" frameWidth="804" frameHeight="854" />
+<SubTexture name="Quartal RIGHT0003" x="2412" y="2562" width="804" height="854" frameX="0" frameY="0" frameWidth="804" frameHeight="854" />
+<SubTexture name="Quartal RIGHT0004" x="0" y="3416" width="804" height="854" frameX="0" frameY="0" frameWidth="804" frameHeight="854" />
+<SubTexture name="Quartal RIGHT0005" x="0" y="3416" width="804" height="854" frameX="0" frameY="0" frameWidth="804" frameHeight="854" />
+</TextureAtlas>

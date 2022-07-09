@@ -1,0 +1,276 @@
+{
+	"song": {
+		"events": [
+			[
+				31121.4953271028,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bigbro-player"
+					]
+				]
+			],
+			[
+				35887.8504672897,
+				[
+					[
+						"Change Character",
+						"dad",
+						"daisy"
+					]
+				]
+			],
+			[
+				40373.8317757009,
+				[
+					[
+						"Change Character",
+						"bf",
+						"sonic"
+					]
+				]
+			],
+			[
+				44859.8130841122,
+				[
+					[
+						"Change Character",
+						"dad",
+						"taeyai"
+					]
+				]
+			],
+			[
+				49345.7943925234,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bookey"
+					]
+				]
+			],
+			[
+				53271.0280373832,
+				[
+					[
+						"Change Character",
+						"dad",
+						"momi"
+					]
+				]
+			],
+			[
+				57757.0093457944,
+				[
+					[
+						"Change Character",
+						"bf",
+						"sticky"
+					]
+				]
+			],
+			[
+				62803.7383177571,
+				[
+					[
+						"Change Character",
+						"dad",
+						"whitty"
+					],
+					[
+						"Change Character",
+						"bf",
+						"luigi"
+					]
+				]
+			],
+			[
+				71775.7009345795,
+				[
+					[
+						"Change Character",
+						"dad",
+						"rosy"
+					]
+				]
+			],
+			[
+				74018.6915887851,
+				[
+					[
+						"Change Character",
+						"bf",
+						"ski-player"
+					]
+				]
+			],
+			[
+				76261.6822429907,
+				[
+					[
+						"Change Character",
+						"dad",
+						"skymad"
+					]
+				]
+			],
+			[
+				78504.6728971963,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bbpanzu"
+					]
+				]
+			],
+			[
+				80747.663551402,
+				[
+					[
+						"Change Character",
+						"dad",
+						"luacle-scream"
+					]
+				]
+			],
+			[
+				85233.6448598132,
+				[
+					[
+						"Change Character",
+						"bf",
+						"gold-player"
+					]
+				]
+			],
+			[
+				89719.6261682244,
+				[
+					[
+						"Alt Idle Animation",
+						"dad",
+						"-alt"
+					],
+					[
+						"Change Character",
+						"bf",
+						"8owser"
+					]
+				]
+			],
+			[
+				91962.61682243,
+				[
+					[
+						"Alt Idle Animation",
+						"dad",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"miku"
+					]
+				]
+			],
+			[
+				94205.6074766356,
+				[
+					[
+						"Change Character",
+						"bf",
+						"tord"
+					]
+				]
+			],
+			[
+				96448.5981308412,
+				[
+					[
+						"Change Character",
+						"dad",
+						"jenny"
+					]
+				]
+			],
+			[
+				98691.5887850469,
+				[
+					[
+						"Change Character",
+						"dad",
+						"Kung Fu Man"
+					]
+				]
+			],
+			[
+				103177.570093458,
+				[
+					[
+						"Change Character",
+						"bf",
+						"henry-player"
+					]
+				]
+			],
+			[
+				107383.177570094,
+				[
+					[
+						"Change Character",
+						"dad",
+						"mad-stand"
+					]
+				]
+			],
+			[
+				116635.514018692,
+				[
+					[
+						"Change Character",
+						"dad",
+						"tom"
+					],
+					[
+						"Change Character",
+						"bf",
+						"cj-player"
+					]
+				]
+			],
+			[
+				118878.504672897,
+				[
+					[
+						"Change Character",
+						"dad",
+						"spong"
+					]
+				]
+			],
+			[
+				121121.495327103,
+				[
+					[
+						"Change Character",
+						"dad",
+						"cg"
+					]
+				]
+			],
+			[
+				123364.485981309,
+				[
+					[
+						"Change Character",
+						"dad",
+						"fyzure"
+					]
+				]
+			]
+		]
+	}
+}
